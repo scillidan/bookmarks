@@ -1,5 +1,7 @@
-https://alacritty.org/config-alacritty.html                            Alacritty
-https://neovide.dev/config-file.html                                   Neovide
-https://neovide.dev/configuration.html                                 Neovide
-https://github.com/TheR1D/shell_gpt/wiki/Ollama#shellgpt-configuration ShellGPT
-https://yazi-rs.github.io/docs/configuration/overview/                 Yazi
+https://alacritty.org/config-alacritty.html  Alacritty
+https://neovide.dev/config-file.html  Neovide
+https://neovide.dev/configuration.html  Neovide
+https://github.com/TheR1D/shell_gpt/wiki/Ollama#shellgpt-configuration  ShellGPT
+https://yazi-rs.github.io/docs/configuration/overview/  Yazi
+https://wiki.archlinux.org/title/Newsboat  (Arch) Newsboat
+https://tmuxp.git-pull.com/configuration/index.html  (Arch) tmuxp

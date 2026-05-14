@@ -1,0 +1,4 @@
+https://rashil2000.me/blogs/tune-wezterm  How to Obsessively Tune WezTerm
+https://nchrs.xyz/cmus.html  A command line music player.
+https://ashishb.net/programming/python-in-production-2  How to run Python in production
+https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html  Python dependency management is a dumpster fire

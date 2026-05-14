@@ -1,2 +1,0 @@
-https://wiki.archlinux.org/title/Newsboat           Newsboat
-https://tmuxp.git-pull.com/configuration/index.html tmuxp

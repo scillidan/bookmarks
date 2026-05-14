@@ -1,4 +1,0 @@
-https://linux.die.net/man/1/cmus                                   cmus - Linux man page
-https://wiki.gentoo.org/wiki/Cmus                                  cmus - Gentoo wiki
-https://newsboat.org/releases/2.10/docs/newsboat.html              Newsboat
-https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst zathura.1.rst

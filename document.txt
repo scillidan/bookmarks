@@ -1,16 +1,23 @@
-https://alacritty.org/config-alacritty.html                   Alacritty
-https://manual.audacityteam.org/                              Audacity
-https://darktable-org.github.io/dtdocs/en/                    Darktable
-https://espanso.org/docs/get-started/                         Espanso
-https://docs.gimp.org/index.html#gimp-online                  GIMP
-https://docs.gimp.org/2.4/pdf/en.pdf                          GIMP-PDF
+https://alacritty.org/config-alacritty.html  Alacritty
+https://manual.audacityteam.org/  Audacity
+https://darktable-org.github.io/dtdocs/en/  Darktable
+https://espanso.org/docs/get-started/  Espanso
+https://ffmpeg.org/ffmpeg.html  FFmpeg
+https://docs.gimp.org/index.html#gimp-online  GIMP
+https://docs.gimp.org/2.4/pdf/en.pdf  GIMP-PDF
 https://inkscape-manuals.readthedocs.io/en/latest/index.html  Inkscape
-https://inkscape-manuals.readthedocs.io/en/latest/#           Inkscape-PDF
-https://docs.kdenlive.org/en/index.html                       Kdenlive
-https://docs.krita.org/en/                                    Krita
-https://opencode.ai/docs                                      OpenCode
-https://docs.qgis.org/3.44/en/docs/index.html                 QGIS (3.44)
-https://docs.qgis.org/3.44/pdf                                QGIS-PDF (3.44)
-https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf Shotcut-PDF
-https://sioyek-documentation.readthedocs.io/en/latest         Sioyek
-https://yazi-rs.github.io/docs/installation                   Yazi
+https://inkscape-manuals.readthedocs.io/en/latest/#  Inkscape-PDF
+https://docs.kdenlive.org/en/index.html  Kdenlive
+https://docs.krita.org/en/  Krita
+https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs  mdn - Web video codec guide
+https://opencode.ai/docs  OpenCode
+https://docs.qgis.org/3.44/en/docs/index.html  QGIS (3.44)
+https://docs.qgis.org/3.44/pdf  QGIS-PDF (3.44)
+https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf  Shotcut-PDF
+https://sioyek-documentation.readthedocs.io/en/latest  Sioyek
+https://yazi-rs.github.io/docs/installation  Yazi
+https://linux.die.net/man/1/cmus  (Arch) cmus - Linux man page
+https://wiki.gentoo.org/wiki/Cmus  (Arch) cmus - Gentoo wiki
+https://newsboat.org/releases/2.10/docs/newsboat.html  (Arch) Newsboat
+https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst  (Arch) zathura.1.rst
+https://github.com/ScoopInstaller/Scoop/wiki  (Windows) Scoop Wiki
