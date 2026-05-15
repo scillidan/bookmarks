@@ -1,0 +1,3 @@
+https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9  How I Used Edge-TTS to Build a Free Online Text-to-Speech Site
+https://shotstack.io/learn/convert-video-gif-ffmpeg/  FFmpeg: MP4 to GIF guide
+https://www.bilibili.com/opus/758833623770071061  小红书发布的动图为什么不动？

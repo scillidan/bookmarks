@@ -1,0 +1,15 @@
+https://hub.espanso.org/all-emojis  espanso
+https://hub.espanso.org/greek-letters-improved  espanso
+https://hub.espanso.org/math-symbols  espanso
+https://github.com/mrdotx/link-handler  newsboat
+https://github.com/alvinunreal/oh-my-opencode-slim  opencode
+https://github.com/numman-ali/opencode-openai-codex-auth  opencode
+https://github.com/vtemian/micode  opencode
+https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-embed_annotations  sioyek
+https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-import_annotations  sioyek
+https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-remove_annotation  sioyek
+https://github.com/boydaihungst/thunar-bulk-rename.yazi  yazi
+https://github.com/grimandgreedy/ffmpeg-stats.yazi  yazi
+https://github.com/walldmtd/krita-preview.yazi  yazi
+https://github.com/wylie102/duckdb.yazi  yazi
+https://github.com/macydnah/office.yazi  yazi
