@@ -10,12 +10,14 @@ https://docs.gimp.org/2.4/pdf/en.pdf  GIMP (PDF)
 https://git-cliff.org/docs/  git-cliff
 https://inkscape-manuals.readthedocs.io/en/latest/index.html  Inkscape
 https://inkscape-manuals.readthedocs.io/en/latest/#  Inkscape (PDF)
+https://jj-for-everyone.github.io  Jujutsu for everyone
 https://docs.kdenlive.org/en/index.html  Kdenlive
 https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html  KiCad
 https://docs.krita.org/en/  Krita
 https://masscode.io/documentation/  massCode
 https://mergiraf.org/  Mergiraf
 https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs  mdn - Web video codec guide
+https://omegat.sourceforge.io/manual-standard/en/index.html  OmegaT
 https://opencode.ai/docs  OpenCode
 https://docs.qgis.org/3.44/en/docs/index.html  QGIS
 https://docs.qgis.org/3.44/pdf QGIS (PDF)
@@ -30,6 +32,7 @@ https://linux.die.net/man/1/cmus  (Arch) cmus - Linux man page
 https://wiki.gentoo.org/wiki/Cmus  (Arch) cmus - Gentoo wiki
 https://newsboat.org/releases/2.10/docs/newsboat.html  (Arch) Newsboat
 https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst  (Arch) zathura.1.rst
+https://www.autohotkey.com/docs/v2/  (Windows) AutoHotkey
 https://chrisant996.github.io/clink/clink.html  (Windows) Clink
 https://github.com/ScoopInstaller/Scoop/wiki  (Windows) Scoop
 https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md    (Windows) Scoop - Contributing
