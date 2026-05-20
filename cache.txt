@@ -1,3 +1,4 @@
+https://github.com/goodreasonai/abbey  Abbey
 https://github.com/Mintplex-Labs/anythingllm-hub-cli  AnythingLLM
 https://github.com/Mintplex-Labs/anything-llm-cli  AnythingLLM
 https://www.usebruno.com/  Bruno

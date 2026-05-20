@@ -2,6 +2,7 @@ https://alacritty.org/config-alacritty.html  Alacritty
 https://manual.audacityteam.org/  Audacity
 https://everything.curl.dev/  everything curl
 https://darktable-org.github.io/dtdocs/en/  Darktable
+https://dbeaver.com/docs/dbeaver/  DBeaver
 https://espanso.org/docs/get-started/  Espanso
 https://ffmpeg.org/ffmpeg.html  FFmpeg
 https://wiki.freecad.org/Manual:Introduction  FreeCAD
@@ -27,6 +28,7 @@ https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf  Shotcut (PDF)
 https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide  Sigil
 https://sioyek-documentation.readthedocs.io/en/latest  Sioyek
 https://docs.syncthing.net/users/syncthing.html  Syncthing
+https://man7.org/linux/man-pages/man1/xargs.1.html  xargs
 https://yazi-rs.github.io/docs/installation  Yazi
 https://linux.die.net/man/1/cmus  (Arch) cmus - Linux man page
 https://wiki.gentoo.org/wiki/Cmus  (Arch) cmus - Gentoo wiki
@@ -36,4 +38,5 @@ https://www.autohotkey.com/docs/v2/  (Windows) AutoHotkey
 https://chrisant996.github.io/clink/clink.html  (Windows) Clink
 https://github.com/ScoopInstaller/Scoop/wiki  (Windows) Scoop
 https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md    (Windows) Scoop - Contributing
+https://github.com/aelassas/servy/wiki  (Windows) Servy
 https://docs.mp3tag.de/mapping/  (Windows) Tag Field Mappings
