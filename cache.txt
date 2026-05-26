@@ -18,9 +18,9 @@ https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-embed_annot
 https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-import_annotations  sioyek
 https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-remove_annotation  sioyek
 https://github.com/gage-marshall/Nisemonogatari-Telnet  telnet
-https://github.com/boydaihungst/thunar-bulk-rename.yazi  yazi
 https://github.com/grimandgreedy/ffmpeg-stats.yazi  yazi
-https://github.com/walldmtd/krita-preview.yazi  yazi
 https://github.com/wylie102/duckdb.yazi  yazi
 https://github.com/macydnah/office.yazi  yazi
+https://github.com/GianniBYoung/rsync.yazi  yazi
+https://gist.github.com/Amooti73/9dac66ffee26f93baf211ab8c05949cd  (Arch) sdcv
 https://github.com/mohabouje/WinToast  (Windows) WinToast
