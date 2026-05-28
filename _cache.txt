@@ -24,3 +24,10 @@ https://github.com/macydnah/office.yazi  yazi
 https://github.com/GianniBYoung/rsync.yazi  yazi
 https://gist.github.com/Amooti73/9dac66ffee26f93baf211ab8c05949cd  (Arch) sdcv
 https://github.com/mohabouje/WinToast  (Windows) WinToast
+# https://github.com/eugeny/tabby-save-output  Tabby
+# https://github.com/flkns/tabby-quick-restart  Tabby
+# https://github.com/composer404/tabby-search-in-browser  Tabby
+# https://github.com/trzsz/tabby-trzsz  Tabby
+# https://github.com/kbjr/terminus-title-control  Tabby
+# https://github.com/eugeny/tabby-docker  Tabby
+# https://github.com/aaronhuggins/tabby-colors-noctis  Tabby
