@@ -5,10 +5,10 @@ https://www.usebruno.com/  Bruno
 https://hub.espanso.org/all-emojis  espanso
 https://hub.espanso.org/greek-letters-improved  espanso
 https://hub.espanso.org/math-symbols  espanso
+https://github.com/fonttools/fonttools  fontTools
 https://github.com/creusvictor/keepassxc-fzf  fzf
 https://github.com/niksingh710/fzf-preview  fzf
 https://github.com/benward2301/fzf-navigator  fzf
-https://github.com/mrdotx/link-handler  newsboat
 https://github.com/alvinunreal/oh-my-opencode-slim  opencode
 https://github.com/numman-ali/opencode-openai-codex-auth  opencode
 https://github.com/vtemian/micode  opencode
@@ -22,6 +22,7 @@ https://github.com/grimandgreedy/ffmpeg-stats.yazi  yazi
 https://github.com/wylie102/duckdb.yazi  yazi
 https://github.com/macydnah/office.yazi  yazi
 https://github.com/GianniBYoung/rsync.yazi  yazi
+https://github.com/mrdotx/link-handler  (Arch) newsboat
 https://gist.github.com/Amooti73/9dac66ffee26f93baf211ab8c05949cd  (Arch) sdcv
 https://github.com/mohabouje/WinToast  (Windows) WinToast
 # https://github.com/eugeny/tabby-save-output  Tabby
