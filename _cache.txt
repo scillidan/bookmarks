@@ -2,6 +2,7 @@ https://github.com/goodreasonai/abbey  Abbey
 https://github.com/Mintplex-Labs/anythingllm-hub-cli  AnythingLLM
 https://github.com/Mintplex-Labs/anything-llm-cli  AnythingLLM
 https://www.usebruno.com/  Bruno
+https://github.com/doomemacs/doomemacs  Emacs
 https://hub.espanso.org/all-emojis  espanso
 https://hub.espanso.org/greek-letters-improved  espanso
 https://hub.espanso.org/math-symbols  espanso
