@@ -1,3 +1,0 @@
-https://github.com/Asabeneh/30-Days-Of-Python  30 Days Of Python
-https://realpython.com/asteroids-game-python  Build an Asteroids Game With Python and Pygame
-https://github.com/Alexandrbig1/py-web  FullStack Web Development with Python

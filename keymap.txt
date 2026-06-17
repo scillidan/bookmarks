@@ -1,2 +1,0 @@
-https://docs.gimp.org/quickreference/gimp-keys-en.pdf  GIMP (PDF)
-https://latextools.readthedocs.io/en/latest/keybindings  SublimeText - LaTeXTools

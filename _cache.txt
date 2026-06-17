@@ -1,36 +1,34 @@
-https://github.com/joshua-stone/BYTEPATH  BYTEPATH(flatpak)
-https://github.com/goodreasonai/abbey  Abbey
+https://github.com/joshua-stone/BYTEPATH  BYTEPATH - source,flatpak
 https://github.com/Mintplex-Labs/anythingllm-hub-cli  AnythingLLM
 https://github.com/Mintplex-Labs/anything-llm-cli  AnythingLLM
 https://www.usebruno.com/  Bruno
-https://github.com/doomemacs/doomemacs  Emacs
-https://hub.espanso.org/all-emojis  espanso
-https://hub.espanso.org/greek-letters-improved  espanso
-https://hub.espanso.org/math-symbols  espanso
-https://github.com/fonttools/fonttools  fontTools
-https://github.com/creusvictor/keepassxc-fzf  fzf
-https://github.com/niksingh710/fzf-preview  fzf
-https://github.com/benward2301/fzf-navigator  fzf
-https://github.com/alvinunreal/oh-my-opencode-slim  opencode
-https://github.com/numman-ali/opencode-openai-codex-auth  opencode
-https://github.com/vtemian/micode  opencode
-https://github.com/Abdess/retroarch_system  RetroArch
-https://github.com/libretro/libretro-database  RetroArch
-https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-embed_annotations  sioyek
-https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-import_annotations  sioyek
-https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-remove_annotation  sioyek
-https://github.com/gage-marshall/Nisemonogatari-Telnet  telnet
-https://github.com/grimandgreedy/ffmpeg-stats.yazi  yazi
-https://github.com/wylie102/duckdb.yazi  yazi
-https://github.com/macydnah/office.yazi  yazi
-https://github.com/GianniBYoung/rsync.yazi  yazi
-https://github.com/mrdotx/link-handler  (Arch) newsboat
-https://gist.github.com/Amooti73/9dac66ffee26f93baf211ab8c05949cd  (Arch) sdcv
-https://github.com/mohabouje/WinToast  (Windows) WinToast
-# https://github.com/eugeny/tabby-save-output  Tabby
-# https://github.com/flkns/tabby-quick-restart  Tabby
-# https://github.com/composer404/tabby-search-in-browser  Tabby
-# https://github.com/trzsz/tabby-trzsz  Tabby
-# https://github.com/kbjr/terminus-title-control  Tabby
-# https://github.com/eugeny/tabby-docker  Tabby
-# https://github.com/aaronhuggins/tabby-colors-noctis  Tabby
+https://github.com/doomemacs/doomemacs  Emacs - source
+https://hub.espanso.org/all-emojis  espanso - source
+https://hub.espanso.org/greek-letters-improved  espanso - source
+https://hub.espanso.org/math-symbols  espanso - source
+https://github.com/creusvictor/keepassxc-fzf  fzf - source
+https://github.com/niksingh710/fzf-preview  fzf - source
+https://github.com/benward2301/fzf-navigator  fzf - source
+https://github.com/alvinunreal/oh-my-opencode-slim  opencode - source
+https://github.com/numman-ali/opencode-openai-codex-auth  opencode - source
+https://github.com/vtemian/micode  opencode - source
+https://github.com/Abdess/retroarch_system  RetroArch - source
+https://github.com/libretro/libretro-database  RetroArch - source
+https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-embed_annotations  sioyek - source
+https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-import_annotations  sioyek - source
+https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-remove_annotation  sioyek - source
+https://github.com/gage-marshall/Nisemonogatari-Telnet  telnet - source
+https://github.com/grimandgreedy/ffmpeg-stats.yazi  yazi - source
+https://github.com/wylie102/duckdb.yazi  yazi - source
+https://github.com/macydnah/office.yazi  yazi - source
+https://github.com/GianniBYoung/rsync.yazi  yazi - source
+https://github.com/mrdotx/link-handler  newsboat - source,arch
+https://gist.github.com/Amooti73/9dac66ffee26f93baf211ab8c05949cd  sdcv - source,arch
+https://github.com/mohabouje/WinToast  WinToast - source,windows
+https://github.com/eugeny/tabby-save-output  Tabby - source
+https://github.com/flkns/tabby-quick-restart  Tabby - source
+https://github.com/composer404/tabby-search-in-browser  Tabby - source
+https://github.com/trzsz/tabby-trzsz  Tabby - source
+https://github.com/kbjr/terminus-title-control  Tabby - source
+https://github.com/eugeny/tabby-docker  Tabby - source
+https://github.com/aaronhuggins/tabby-colors-noctis  Tabby - source
