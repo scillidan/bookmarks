@@ -1,3 +1,7 @@
+https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable  Darktable - asset
+https://github.com/sfi0zy/street-monochrome  Darktable - asset
+https://github.com/t3mujin/t3mujinpack  Darktable - asset
+https://www.richardosgood.com/posts/banned-book-library  Banned Book Library - blog
 Learning Music https://learningmusic.ableton.com - lesson
 Market Structure Primer https://primer.prooftrading.com - lesson
 MLOps-Basics https://github.com/graviraja/MLOps-Basics - lesson
@@ -13,37 +17,37 @@ How I Used Edge-TTS to Build a Free Online Text-to-Speech Site  https://dev.to/a
 A command line music player.  https://nchrs.xyz/cmus.html - guide
 Python dependency management is a dumpster fire  https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html - guide
 How to Obsessively Tune WezTerm  https://rashil2000.me/blogs/tune-wezterm - guide
-FFmpeg: MP4 to GIF guide  https://shotstack.io/learn/convert-video-gif-ffmpeg/ - guide
+FFmpeg: MP4 to GIF guide  https://shotstack.io/learn/convert-video-gif-ffmpeg - guide
 小红书发布的动图为什么不动？  https://www.bilibili.com/opus/758833623770071061 - guide
 Stirling-PDF - Unix Installation Guide  https://docs.stirlingpdf.com/Installation/Unix%20Installation - guide
 Alacritty  https://alacritty.org/config-alacritty.html - document
-Audacity  https://manual.audacityteam.org/ - document
-everything curl  https://everything.curl.dev/ - document
-Darktable  https://darktable-org.github.io/dtdocs/en/ - document
-DBeaver  https://dbeaver.com/docs/dbeaver/ - document
-delta  https://dandavison.github.io/delta/ - document
-Espanso  https://espanso.org/docs/get-started/ - document
+Audacity  https://manual.audacityteam.org - document
+everything curl  https://everything.curl.dev - document
+Darktable  https://darktable-org.github.io/dtdocs/en - document
+DBeaver  https://dbeaver.com/docs/dbeaver - document
+delta  https://dandavison.github.io/delta - document
+Espanso  https://espanso.org/docs/get-started - document
 FFmpeg  https://ffmpeg.org/ffmpeg.html - document
 FreeCAD  https://wiki.freecad.org/Manual:Introduction - document
 GIMP  https://docs.gimp.org/index.html#gimp-online - document
 GIMP (PDF)  https://docs.gimp.org/2.4/pdf/en.pdf - document
-git-cliff  https://git-cliff.org/docs/ - document
+git-cliff  https://git-cliff.org/docs - document
 Harlequin  https://harlequin.sh/docs/getting-started/usage - document
 Inkscape  https://inkscape-manuals.readthedocs.io/en/latest/index.html - document
-Inkscape (PDF)  https://inkscape-manuals.readthedocs.io/en/latest/# - document
+Inkscape (PDF)  https://inkscape-manuals.readthedocs.io/en/latest - document
 Jujutsu for everyone  https://jj-for-everyone.github.io - document
 khal  https://khal.readthedocs.io/en/latest/index.html - document
 Kdenlive  https://docs.kdenlive.org/en/index.html - document
 KiCad  https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html - document
-Krita  https://docs.krita.org/en/ - document
-massCode  https://masscode.io/documentation/ - document
-Mergiraf  https://mergiraf.org/ - document
+Krita  https://docs.krita.org/en - document
+massCode  https://masscode.io/documentation - document
+Mergiraf  https://mergiraf.org - document
 mdn - Web video codec guide  https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs - document
 OmegaT  https://omegat.sourceforge.io/manual-standard/en/index.html - document
 OpenCode  https://opencode.ai/docs - document
 QGIS  https://docs.qgis.org/3.44/en/docs/index.html - document
 QGIS (PDF)  https://docs.qgis.org/3.44/pdf - document
-Rclone  https://rclone.org/docs/ - document
+Rclone  https://rclone.org/docs - document
 rsync  https://download.samba.org/pub/rsync/rsync.1 - document
 Shotcut (PDF)  https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf - document
 Sigil  https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide - document
@@ -55,22 +59,18 @@ cmus - Linux man page  https://linux.die.net/man/1/cmus - document,arch
 cmus - Gentoo wiki  https://wiki.gentoo.org/wiki/Cmus - document,arch
 Newsboat  https://newsboat.org/releases/2.10/docs/newsboat.html - document,arch
 zathura.1.rst  https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst - document,arch
-AutoHotkey  https://www.autohotkey.com/docs/v2/ - document,windows
+AutoHotkey  https://www.autohotkey.com/docs/v2 - document,windows
 Clink  https://chrisant996.github.io/clink/clink.html - document,windows
 Scoop  https://github.com/ScoopInstaller/Scoop/wiki - document,windows
 Scoop - Contributing  https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md - document,windows
 Servy  https://github.com/aelassas/servy/wiki - document,windows
-Tag Field Mappings  https://docs.mp3tag.de/mapping/ - document,windows
+Tag Field Mappings  https://docs.mp3tag.de/mapping - document,windows
 Alacritty  https://alacritty.org/config-alacritty.html - config
 Neovide  https://neovide.dev/config-file.html - config
 Neovide  https://neovide.dev/configuration.html - config
 ShellGPT  https://github.com/TheR1D/shell_gpt/wiki/Ollama#shellgpt-configuration - config
-Yazi  https://yazi-rs.github.io/docs/configuration/overview/ - config
+Yazi  https://yazi-rs.github.io/docs/configuration/overview - config
 Newsboat  https://wiki.archlinux.org/title/Newsboat - config,arch
 tmuxp  https://tmuxp.git-pull.com/configuration/index.html - config,arch
 Clink  https://chrisant996.github.io/clink/clink.html#clink-settings - config,windows
 Clink [zh-cn]  https://github.com/scillidan/mark_cheat/blob/main/clink_clinks-settings.zh.md - config,windows
-https://www.richardosgood.com/posts/banned-book-library/  Banned Book Library - blog
-https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable  Darktable - asset
-https://github.com/sfi0zy/street-monochrome  Darktable - asset
-https://github.com/t3mujin/t3mujinpack  Darktable - asset
