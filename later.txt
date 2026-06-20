@@ -1,0 +1,7 @@
+https://github.com/pvliesdonk/markdown-vault-mcp
+https://github.com/fonttools/fonttools
+https://github.com/earthtojake/text-to-cad
+https://github.com/marketplace/actions/cve-lite-cli - act
+https://github.com/apps/ecc-tools - act
+https://github.com/silverbulletmd/silverbullet - web
+https://github.com/goodreasonai/abbey - web,llm
