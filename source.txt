@@ -1,3 +1,6 @@
+https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable  Darktable
+https://github.com/sfi0zy/street-monochrome  Darktable
+https://github.com/t3mujin/t3mujinpack  Darktable
 https://github.com/Mintplex-Labs/anything-llm-cli  AnythingLLM
 https://github.com/Mintplex-Labs/anythingllm-hub-cli  AnythingLLM
 https://www.usebruno.com  Bruno
