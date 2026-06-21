@@ -1,3 +1,4 @@
+https://github.com/scillidan/pegasus-theme-999
 https://github.com/pvliesdonk/markdown-vault-mcp
 https://github.com/fonttools/fonttools
 https://github.com/earthtojake/text-to-cad
