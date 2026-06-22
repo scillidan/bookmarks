@@ -1,116 +1,116 @@
-1000 Excel Formulas https://exceljet.net/formulas - lesson
-Understanding SVG Paths https://www.nan.fyi/svg-paths - lesson
-SVG Tutorial https://svg-tutorial.com - lesson
-https://scillidan.github.io/sketch-to-lineart/docs - webapp,copy
-https://scillidan.github.io/ordered-dither-maker/docs - webapp,copy
-https://scillidan.github.io/quiver - webapp,copy
-https://scillidan.github.io/js-image-carver - webapp,copy
-https://scillidan.github.io/qrframe - webapp,copy
-https://prompt.always200.com/#/basic/system - webapp,llm
-https://jsoncrack.com/editor - webapp,editor,json
-https://vim-master.com - webapp,tool,game
-https://kiwix.github.io/kiwix-js/www/index.html - webapp,reader
-https://excalidraw.com - webapp,draw
-https://dgm.sh - webapp,draw
-https://codi.link - webapp,editor,frontend
-https://www.drawdb.app/editor - webapp,editor,database
-https://animes.garden - webapp,tool
-https://yqnn.github.io/svg-path-editor - webapp,draw,svg
-https://signalmidi.app/edit - webapp,editor,midi
-https://og-playground.vercel.app - webapp,editor
-https://reader.ttsu.app/manage - webapp,reader
-https://mermaid.live - webapp,editor
-https://johnfactotum.github.io/foliate-js/reader.html - webapp,reader
-https://dlaa.me/markdownlint - webapp,linter
-https://www.bfxr.net - webapp,gamedev,audio
-https://gchq.github.io/CyberChef - webapp,codec
-https://cheatsheets.zip - webapp,dev
-https://szimek.github.io/signature_pad - webapp,draw
-https://monkeytype.com - webapp,tool
-https://www.programmingfonts.org - webapp,font
-https://renji-xd.github.io/texthooker-ui - webapp,tool
-https://it-tools.tech - webapp,toolkit
-https://editor.graphite.art - webapp,draw
-https://mermaid.live - webapp,editor
-https://retroassembly.com/demo - webapp,game
-https://svgedit.netlify.app/index.html - webapp,draw
-Regex https://cheatsheets.zip/regex - cheatsheet
-Onshape-Boat-Tutorial https://github.com/jdpieck/Onshape-Boat-Tutorial - guide,source
-Banned Book Library https://www.richardosgood.com/posts/banned-book-library - blog
-How do animals sound across languages? https://pudding.cool/2025/03/language - blog,html
-Eigentechno https://www.isik.dev/posts/Eigentechno.html - blog,html
-How Sonic DNA Connects Generations of Music https://pudding.cool/2025/04/music-dna - blog,html
+https://www.richardosgood.com/posts/banned-book-library  Banned Book Library - blog
+https://www.isik.dev/posts/Eigentechno.html  Eigentechno - blog,html
+https://pudding.cool/2025/03/language  How do animals sound across languages? - blog,html
+https://pudding.cool/2025/04/music-dna  How Sonic DNA Connects Generations of Music - blog,html
 https://github.com/LPBeaulieu/Book-Generator-PrintABook - blog,source
-Regex https://github.com/google/re2/wiki/Syntax - document
-Learning Music https://learningmusic.ableton.com - lesson
-Market Structure Primer https://primer.prooftrading.com - lesson
-MLOps-Basics https://github.com/graviraja/MLOps-Basics - lesson
-The MIDI Specification http://midi.teragonaudio.com/tech/midispec.htm - lesson
-30 Days Of Python  https://github.com/Asabeneh/30-Days-Of-Python - lesson
-Build an Asteroids Game With Python and Pygame  https://realpython.com/asteroids-game-python - lesson
-FullStack Web Development with Python  https://github.com/Alexandrbig1/py-web - lesson
-GIMP (PDF)  https://docs.gimp.org/quickreference/gimp-keys-en.pdf - keymap
-SublimeText - LaTeXTools  https://latextools.readthedocs.io/en/latest/keybindings - keymap
-How to run Python in production  https://ashishb.net/programming/python-in-production-2 - guide
-Introduction to Computer Music (PDF)  https://composerprogrammer.com/introductiontocomputermusic.pdf - guide
-How I Used Edge-TTS to Build a Free Online Text-to-Speech Site  https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9 - guide
-A command line music player.  https://nchrs.xyz/cmus.html - guide
-Python dependency management is a dumpster fire  https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html - guide
-How to Obsessively Tune WezTerm  https://rashil2000.me/blogs/tune-wezterm - guide
-FFmpeg: MP4 to GIF guide  https://shotstack.io/learn/convert-video-gif-ffmpeg - guide
-小红书发布的动图为什么不动？  https://www.bilibili.com/opus/758833623770071061 - guide
-Stirling-PDF - Unix Installation Guide  https://docs.stirlingpdf.com/Installation/Unix%20Installation - guide
-Alacritty  https://alacritty.org/config-alacritty.html - document
-Audacity  https://manual.audacityteam.org - document
-everything curl  https://everything.curl.dev - document
-Darktable  https://darktable-org.github.io/dtdocs/en - document
-DBeaver  https://dbeaver.com/docs/dbeaver - document
-delta  https://dandavison.github.io/delta - document
-Espanso  https://espanso.org/docs/get-started - document
-FFmpeg  https://ffmpeg.org/ffmpeg.html - document
-FreeCAD  https://wiki.freecad.org/Manual:Introduction - document
-GIMP  https://docs.gimp.org/index.html#gimp-online - document
-GIMP (PDF)  https://docs.gimp.org/2.4/pdf/en.pdf - document
-git-cliff  https://git-cliff.org/docs - document
-Harlequin  https://harlequin.sh/docs/getting-started/usage - document
-Inkscape  https://inkscape-manuals.readthedocs.io/en/latest/index.html - document
-Inkscape (PDF)  https://inkscape-manuals.readthedocs.io/en/latest - document
-Jujutsu for everyone  https://jj-for-everyone.github.io - document
-khal  https://khal.readthedocs.io/en/latest/index.html - document
-Kdenlive  https://docs.kdenlive.org/en/index.html - document
-KiCad  https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html - document
-Krita  https://docs.krita.org/en - document
-massCode  https://masscode.io/documentation - document
-Mergiraf  https://mergiraf.org - document
-mdn - Web video codec guide  https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs - document
-OmegaT  https://omegat.sourceforge.io/manual-standard/en/index.html - document
-OpenCode  https://opencode.ai/docs - document
-QGIS  https://docs.qgis.org/3.44/en/docs/index.html - document
-QGIS (PDF)  https://docs.qgis.org/3.44/pdf - document
-Rclone  https://rclone.org/docs - document
-rsync  https://download.samba.org/pub/rsync/rsync.1 - document
-Shotcut (PDF)  https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf - document
-Sigil  https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide - document
-Sioyek  https://sioyek-documentation.readthedocs.io/en/latest - document
-Syncthing  https://docs.syncthing.net/users/syncthing.html - document
-xargs  https://man7.org/linux/man-pages/man1/xargs.1.html - document
-Yazi  https://yazi-rs.github.io/docs/installation - document
-cmus - Linux man page  https://linux.die.net/man/1/cmus - document,arch
-cmus - Gentoo wiki  https://wiki.gentoo.org/wiki/Cmus - document,arch
-Newsboat  https://newsboat.org/releases/2.10/docs/newsboat.html - document,arch
-zathura.1.rst  https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst - document,arch
-AutoHotkey  https://www.autohotkey.com/docs/v2 - document,windows
-Clink  https://chrisant996.github.io/clink/clink.html - document,windows
-Scoop  https://github.com/ScoopInstaller/Scoop/wiki - document,windows
-Scoop - Contributing  https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md - document,windows
-Servy  https://github.com/aelassas/servy/wiki - document,windows
-Tag Field Mappings  https://docs.mp3tag.de/mapping - document,windows
-Alacritty  https://alacritty.org/config-alacritty.html - config
-Neovide  https://neovide.dev/config-file.html - config
-Neovide  https://neovide.dev/configuration.html - config
-ShellGPT  https://github.com/TheR1D/shell_gpt/wiki/Ollama#shellgpt-configuration - config
-Yazi  https://yazi-rs.github.io/docs/configuration/overview - config
-Newsboat  https://wiki.archlinux.org/title/Newsboat - config,arch
-tmuxp  https://tmuxp.git-pull.com/configuration/index.html - config,arch
-Clink  https://chrisant996.github.io/clink/clink.html#clink-settings - config,windows
-Clink [zh-cn]  https://github.com/scillidan/mark_cheat/blob/main/clink_clinks-settings.zh.md - config,windows
+https://cheatsheets.zip/regex  Regex - cheatsheet
+https://alacritty.org/config-alacritty.html  Alacritty - config
+https://neovide.dev/config-file.html  Neovide - config
+https://neovide.dev/configuration.html  Neovide - config
+https://github.com/TheR1D/shell_gpt/wiki/Ollama#shellgpt-configuration  ShellGPT - config
+https://yazi-rs.github.io/docs/configuration/overview  Yazi - config
+https://wiki.archlinux.org/title/Newsboat  Newsboat - config,arch
+https://tmuxp.git-pull.com/configuration/index.html  tmuxp - config,arch
+https://chrisant996.github.io/clink/clink.html#clink-settings  Clink - config,windows
+https://github.com/scillidan/mark_cheat/blob/main/clink_clinks-settings.zh.md  Clink [zh-cn] - config,windows
+https://alacritty.org/config-alacritty.html  Alacritty - document
+https://manual.audacityteam.org  Audacity - document
+https://darktable-org.github.io/dtdocs/en  Darktable - document
+https://dbeaver.com/docs/dbeaver  DBeaver - document
+https://dandavison.github.io/delta  delta - document
+https://espanso.org/docs/get-started  Espanso - document
+https://everything.curl.dev  everything curl - document
+https://ffmpeg.org/ffmpeg.html  FFmpeg - document
+https://wiki.freecad.org/Manual:Introduction  FreeCAD - document
+https://docs.gimp.org/index.html#gimp-online  GIMP - document
+https://docs.gimp.org/2.4/pdf/en.pdf  GIMP (PDF) - document
+https://git-cliff.org/docs  git-cliff - document
+https://harlequin.sh/docs/getting-started/usage  Harlequin - document
+https://inkscape-manuals.readthedocs.io/en/latest/index.html  Inkscape - document
+https://inkscape-manuals.readthedocs.io/en/latest  Inkscape (PDF) - document
+https://jj-for-everyone.github.io  Jujutsu for everyone - document
+https://docs.kdenlive.org/en/index.html  Kdenlive - document
+https://khal.readthedocs.io/en/latest/index.html  khal - document
+https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html  KiCad - document
+https://docs.krita.org/en  Krita - document
+https://masscode.io/documentation  massCode - document
+https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs  mdn - Web video codec guide - document
+https://mergiraf.org  Mergiraf - document
+https://omegat.sourceforge.io/manual-standard/en/index.html  OmegaT - document
+https://opencode.ai/docs  OpenCode - document
+https://docs.qgis.org/3.44/en/docs/index.html  QGIS - document
+https://docs.qgis.org/3.44/pdf  QGIS (PDF) - document
+https://rclone.org/docs  Rclone - document
+https://github.com/google/re2/wiki/Syntax  Regex - document
+https://download.samba.org/pub/rsync/rsync.1  rsync - document
+https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf  Shotcut (PDF) - document
+https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide  Sigil - document
+https://sioyek-documentation.readthedocs.io/en/latest  Sioyek - document
+https://docs.syncthing.net/users/syncthing.html  Syncthing - document
+https://man7.org/linux/man-pages/man1/xargs.1.html  xargs - document
+https://yazi-rs.github.io/docs/installation  Yazi - document
+https://wiki.gentoo.org/wiki/Cmus  cmus - Gentoo wiki - document,arch
+https://linux.die.net/man/1/cmus  cmus - Linux man page - document,arch
+https://newsboat.org/releases/2.10/docs/newsboat.html  Newsboat - document,arch
+https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst  zathura.1.rst - document,arch
+https://www.autohotkey.com/docs/v2  AutoHotkey - document,windows
+https://chrisant996.github.io/clink/clink.html  Clink - document,windows
+https://github.com/ScoopInstaller/Scoop/wiki  Scoop - document,windows
+https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md  Scoop - Contributing - document,windows
+https://github.com/aelassas/servy/wiki  Servy - document,windows
+https://docs.mp3tag.de/mapping  Tag Field Mappings - document,windows
+https://nchrs.xyz/cmus.html  A command line music player. - guide
+https://shotstack.io/learn/convert-video-gif-ffmpeg  FFmpeg: MP4 to GIF guide - guide
+https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9  How I Used Edge-TTS to Build a Free Online Text-to-Speech Site - guide
+https://rashil2000.me/blogs/tune-wezterm  How to Obsessively Tune WezTerm - guide
+https://ashishb.net/programming/python-in-production-2  How to run Python in production - guide
+https://composerprogrammer.com/introductiontocomputermusic.pdf  Introduction to Computer Music (PDF) - guide
+https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html  Python dependency management is a dumpster fire - guide
+https://docs.stirlingpdf.com/Installation/Unix%20Installation  Stirling-PDF - Unix Installation Guide - guide
+https://www.bilibili.com/opus/758833623770071061  小红书发布的动图为什么不动？ - guide
+https://github.com/jdpieck/Onshape-Boat-Tutorial  Onshape-Boat-Tutorial - guide,source
+https://docs.gimp.org/quickreference/gimp-keys-en.pdf  GIMP (PDF) - keymap
+https://latextools.readthedocs.io/en/latest/keybindings  SublimeText - LaTeXTools - keymap
+https://exceljet.net/formulas  1000 Excel Formulas - lesson
+https://github.com/Asabeneh/30-Days-Of-Python  30 Days Of Python - lesson
+https://realpython.com/asteroids-game-python  Build an Asteroids Game With Python and Pygame - lesson
+https://github.com/Alexandrbig1/py-web  FullStack Web Development with Python - lesson
+https://learningmusic.ableton.com  Learning Music - lesson
+https://primer.prooftrading.com  Market Structure Primer - lesson
+https://github.com/graviraja/MLOps-Basics  MLOps-Basics - lesson
+https://svg-tutorial.com  SVG Tutorial - lesson
+http://midi.teragonaudio.com/tech/midispec.htm  The MIDI Specification - lesson
+https://www.nan.fyi/svg-paths  Understanding SVG Paths - lesson
+https://gchq.github.io/CyberChef - webapp,codec
+https://scillidan.github.io/js-image-carver - webapp,copy
+https://scillidan.github.io/ordered-dither-maker/docs - webapp,copy
+https://scillidan.github.io/qrframe - webapp,copy
+https://scillidan.github.io/quiver - webapp,copy
+https://scillidan.github.io/sketch-to-lineart/docs - webapp,copy
+https://cheatsheets.zip - webapp,dev
+https://dgm.sh - webapp,draw
+https://editor.graphite.art - webapp,draw
+https://excalidraw.com - webapp,draw
+https://svgedit.netlify.app/index.html - webapp,draw
+https://szimek.github.io/signature_pad - webapp,draw
+https://yqnn.github.io/svg-path-editor - webapp,draw,svg
+https://mermaid.live - webapp,editor
+https://mermaid.live - webapp,editor
+https://og-playground.vercel.app - webapp,editor
+https://www.drawdb.app/editor - webapp,editor,database
+https://codi.link - webapp,editor,frontend
+https://jsoncrack.com/editor - webapp,editor,json
+https://signalmidi.app/edit - webapp,editor,midi
+https://www.programmingfonts.org - webapp,font
+https://retroassembly.com/demo - webapp,game
+https://www.bfxr.net - webapp,gamedev,audio
+https://dlaa.me/markdownlint - webapp,linter
+https://prompt.always200.com/#/basic/system - webapp,llm
+https://johnfactotum.github.io/foliate-js/reader.html - webapp,reader
+https://kiwix.github.io/kiwix-js/www/index.html - webapp,reader
+https://reader.ttsu.app/manage - webapp,reader
+https://animes.garden - webapp,tool
+https://monkeytype.com - webapp,tool
+https://renji-xd.github.io/texthooker-ui - webapp,tool
+https://vim-master.com - webapp,tool,game
+https://it-tools.tech - webapp,toolkit
