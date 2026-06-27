@@ -1,3 +1,6 @@
+https://www.conventionalcommits.org Conventional Commits - document,git
+https://keepachangelog.com Keep a Changelog - document,git
+https://semver.org Semantic Versioning - document,git
 https://asciiflow.com/# asciiflow webapp,diagram
 https://q.uiver.app quiver webapp,diagram
 https://viliusle.github.io/miniPaint miniPaint webapp,draw
@@ -10,12 +13,10 @@ https://cheatsheets.zip/regex  Regex - cheatsheet
 https://alacritty.org/config-alacritty.html  Alacritty - config
 https://neovide.dev/config-file.html  Neovide - config
 https://neovide.dev/configuration.html  Neovide - config
-https://github.com/TheR1D/shell_gpt/wiki/Ollama#shellgpt-configuration  ShellGPT - config
 https://yazi-rs.github.io/docs/configuration/overview  Yazi - config
 https://wiki.archlinux.org/title/Newsboat  Newsboat - config,arch
 https://tmuxp.git-pull.com/configuration/index.html  tmuxp - config,arch
 https://chrisant996.github.io/clink/clink.html#clink-settings  Clink - config,windows
-https://github.com/scillidan/mark_cheat/blob/main/clink_clinks-settings.zh.md  Clink [zh-cn] - config,windows
 https://alacritty.org/config-alacritty.html  Alacritty - document
 https://manual.audacityteam.org  Audacity - document
 https://darktable-org.github.io/dtdocs/en  Darktable - document
