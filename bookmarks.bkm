@@ -1,9 +1,6 @@
-https://www.conventionalcommits.org Conventional Commits - document,git
-https://keepachangelog.com Keep a Changelog - document,git
-https://semver.org Semantic Versioning - document,git
 https://asciiflow.com/# asciiflow webapp,diagram
-https://q.uiver.app quiver webapp,diagram
 https://viliusle.github.io/miniPaint miniPaint webapp,draw
+https://q.uiver.app quiver webapp,diagram
 https://www.richardosgood.com/posts/banned-book-library  Banned Book Library - blog
 https://www.isik.dev/posts/Eigentechno.html  Eigentechno - blog,html
 https://pudding.cool/2025/03/language  How do animals sound across languages? - blog,html
@@ -57,6 +54,9 @@ https://wiki.gentoo.org/wiki/Cmus  cmus - Gentoo wiki - document,arch
 https://linux.die.net/man/1/cmus  cmus - Linux man page - document,arch
 https://newsboat.org/releases/2.10/docs/newsboat.html  Newsboat - document,arch
 https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst  zathura.1.rst - document,arch
+https://www.conventionalcommits.org Conventional Commits - document,git
+https://keepachangelog.com Keep a Changelog - document,git
+https://semver.org Semantic Versioning - document,git
 https://www.autohotkey.com/docs/v2  AutoHotkey - document,windows
 https://chrisant996.github.io/clink/clink.html  Clink - document,windows
 https://github.com/ScoopInstaller/Scoop/wiki  Scoop - document,windows
