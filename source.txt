@@ -11,9 +11,8 @@ https://hub.espanso.org/math-symbols  espanso
 https://github.com/benward2301/fzf-navigator  fzf
 https://github.com/creusvictor/keepassxc-fzf  fzf
 https://github.com/niksingh710/fzf-preview  fzf
-https://github.com/alvinunreal/oh-my-opencode-slim  opencode
-https://github.com/numman-ali/opencode-openai-codex-auth  opencode
 https://github.com/vtemian/micode  opencode
+https://github.com/bschnitz/qute qutebrowser
 https://github.com/Abdess/retroarch_system  RetroArch
 https://github.com/libretro/libretro-database  RetroArch
 https://github.com/ahrm/sioyek-python-extensions?tab=readme-ov-file#-embed_annotations  sioyek
