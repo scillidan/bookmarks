@@ -41,3 +41,5 @@ https://github.com/morew4rd/lyte2d - lua
 https://luarocks.org - lua
 https://github.com/1bardesign/batteries - lua
 https://github.com/ianmaclarty/amulet - lua
+https://www.skraper.net - opt,game
+https://thatsmytrunks.itch.io/controllerdisplay - opt,game
