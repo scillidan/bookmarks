@@ -5,7 +5,5 @@ https://github.com/fonttools/fonttools
 https://github.com/earthtojake/text-to-cad
 https://github.com/marketplace/actions/cve-lite-cli - act
 https://github.com/apps/ecc-tools - act
-https://github.com/silverbulletmd/silverbullet - web
 https://github.com/goodreasonai/abbey - web,llm
 https://tympanus.net/codrops/2025/06/18/coding-a-3d-audio-visualizer-with-three-js-gsap-web-audio-api - js,wallpaper
-https://leanrada.com/notes/pure-css-halftone Creating a halftone effect with CSS - guide,css

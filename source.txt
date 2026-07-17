@@ -38,7 +38,6 @@ https://github.com/mohabouje/WinToast WinToast - windows
 https://github.com/qxb3/conf/tree/vim_styled - arch
 https://github.com/astrochili/narrator - lua
 https://github.com/morew4rd/lyte2d - lua
-https://luarocks.org - lua
 https://github.com/1bardesign/batteries - lua
 https://github.com/ianmaclarty/amulet - lua
 https://www.skraper.net - opt,game
