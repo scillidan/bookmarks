@@ -1,58 +1,128 @@
-https://www.kimi.com/code/console - aic
+https://texdoc.org - webapp,typst
+https://devdocs.io - document
+https://regexr.com - webapp,regex
+https://en.wikibooks.org/wiki/LaTeX/Document_Structure - document,latex
+https://wch.github.io/latexsheet - sheet,latex
+https://www.bu.edu/math/files/2013/08/LongTeX1.pdf - sheet,latex
+https://github.com/iurimateus/luasnip-latex-snippets.nvim - neovim
+https://github.com/L3MON4D3/LuaSnip/blob/master/DOC.md - document
+https://github.com/L3MON4D3/LuaSnip/wiki - wiki
+https://wiki.archlinux.org/title/Uncomplicated_Firewall - wiki
+https://wiki.archlinux.org/title/NetworkManager - wiki
+https://wiki.archlinux.org/title/Firewalld - wiki
+https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types - guide
+https://imagemagick.org/script/command-line-processing.php - command
+https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs - document
+https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf - document,pdf
+https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide - document
+https://alacritty.org/config-alacritty.html - document
+https://www.lua.org/manual/5.4/manual.html#3.1 - document
+https://docs.clamav.net - document
+https://manual.audacityteam.org - document
+https://darktable-org.github.io/dtdocs/en - document
+https://dbeaver.com/docs/dbeaver - document
+https://dandavison.github.io/delta - document
+https://espanso.org/docs/get-started - document
+https://everything.curl.dev - document
+https://ffmpeg.org/ffmpeg.html - document
+https://wiki.freecad.org/Manual:Introduction - document
+https://docs.gimp.org/index.html#gimp-online - document
+https://docs.gimp.org/2.4/pdf/en.pdf - document,pdf
+https://inkscape-manuals.readthedocs.io/en/latest/index.html - document
+https://inkscape-manuals.readthedocs.io/en/latest - document,pdf
+https://audiomass.co - webapp,audio
+https://docs.kdenlive.org/en/index.html - document
+https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html - document
+https://docs.krita.org/en - document
+https://opencode.ai/docs - document
+https://docs.qgis.org/3.44/en/docs/index.html - document
+https://docs.qgis.org/3.44/pdf - document,pdf
+https://rclone.org/docs - document
+https://github.com/google/re2/wiki/Syntax - document,regex
+https://download.samba.org/pub/rsync/rsync.1 - document
+https://sioyek-documentation.readthedocs.io/en/latest - document
+https://docs.syncthing.net/users/syncthing.html - document
+https://mpv.io/manual/master - document
+https://yazi-rs.github.io/docs/installation - document
+https://www.conventionalcommits.org Conventional Commits - document,git
+https://keepachangelog.com Keep a Changelog - document,git
+https://semver.org Semantic Versioning - document,git
+https://www.autohotkey.com/docs/v2 - document,autohotkey
+https://chrisant996.github.io/clink/clink.html - document
+https://github.com/ScoopInstaller/Scoop/wiki - document
+https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md - document,scoop,contribute
+https://github.com/aelassas/servy/wiki - document,servy
+https://docs.mp3tag.de/mapping - document,mp3tag
+https://steamcommunity.com/sharedfiles/filedetails/?id=1856527757 How to reduce video file size using Handbrake - guide,handbrake
+https://www.reddit.com/r/handbrake/comments/qas35a/newbie_on_encoding_from_bluray_source_files Newbie On Encoding From Blu-Ray Source Files - guide,handbrake
 https://leanrada.com/notes/pure-css-halftone Creating a halftone effect with CSS - guide,css
+https://markoskon.com/creating-font-subsets Creating font subsets - guide,font
+https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository Adding a license to a repository - guide,git
+https://maurycyz.com/misc/easy_git You already have a git server: - guide,git
+https://gist.github.com/garg-aayush/156ec6ddda3d62e2c0ddad00b7e66956 Steps to manage multiple CUDA environments - guide,cuda
+https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful Customizing tmux and making it less dreadful - guide,tmux
+https://builtin.com/articles/tmux-config Tmux Config: A Guide - guide,tmux
+https://leanrada.com/notes/my-personalised-keyboard My personalised 55% split keyboard - guide,hardware
+https://drobinin.com/posts/designing-software-for-things-that-rot Designing Software for Things that Rot - guide,hardware
+https://www.jonashietala.se/series/voron_trident Let's build a VORON Trident - guide,hardware
+https://mtlynch.io/tinypilot TinyPilot: Build a KVM Over IP for Under $100 - guide,server
+https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf mpv.conf - guide,mpv
+https://dgross.ca/blog/linux-home-server-auto-sleep Making a Linux home server sleep on idle and wake on demand — the simple way - guide,server
+https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL Install Arch Linux on WSL - guide,archwsl
+https://github.com/pixop/video-compare?tab=readme-ov-file#practical-tips pixop/video-compare \- Practical tips - guide
+https://gist.github.com/en0ndev/0e70e5f07296fbfe3dd9628cd19615da How to Remove "Open in Visual Studio" in the Context Menu - guide
+https://transloadit.com/devtips/free-image-cdn-setup-with-github-pages-javascript-cdn Free image CDN: Github Pages & js - guide,cdn
+https://www.wezm.net/v2/posts/2024/tiny-cdn Building a Tiny CDN With pyinfra and Chimera Linux - guide
+https://shotstack.io/learn/convert-video-gif-ffmpeg FFmpeg: MP4 to GIF guide - guide
+https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9 How I Used Edge-TTS to Build a Free Online Text-to-Speech Site - guide,web
+https://rashil2000.me/blogs/tune-wezterm How to Obsessively Tune WezTerm - guide
+https://ashishb.net/programming/python-in-production-2 How to run Python in production - guide
+https://composerprogrammer.com/introductiontocomputermusic.pdf Introduction to Computer Music (PDF) - guide
+https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html Python dependency management is a dumpster fire - guide
+https://docs.stirlingpdf.com/Installation/Unix%20Installation Stirling-PDF - Unix Installation Guide - guide
+https://www.bilibili.com/opus/758833623770071061 小红书发布的动图为什么不动？ - guide
+https://github.com/jdpieck/Onshape-Boat-Tutorial Onshape-Boat-Tutorial - guide
+https://nchrs.xyz/cmus.html A command line music player. - guide
+https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards The Ars Technica guide to mechanical keyboards - blog,hardware
+https://alacritty.org/config-alacritty.html - config
+https://neovide.dev/config-file.html - config
+https://neovide.dev/configuration.html - config
+https://yazi-rs.github.io/docs/configuration/overview - config,yazi
+https://wiki.archlinux.org/title/Newsboat - config
+https://tmuxp.git-pull.com/configuration/index.html - config,tmuxp
+https://chrisant996.github.io/clink/clink.html#clink-settings - config,clink
+https://qutebrowser.org/doc/help/commands.html - command,qutebrowser
+https://handbrake.fr/docs/en/latest/cli/command-line-reference.html - command,handbrake
+https://www.graphicsandprogramming.net/pdf/krita-shortcuts-hotkeys-english.pdf - keymap,krita
+https://neo.vimhelp.org/quickref.txt.html#quickref - keymap,neovim
+https://docs.gimp.org/quickreference/gimp-keys-en.pdf - keymap,gimp,pdf
+https://www.kimi.com/code/console - ai,zh
 https://www.mixfont.com/experiments/decoy-font Decoy Font - asset,font
-https://qutebrowser.org/doc/help/commands.html qutebrowser \- Commands - command
-https://neo.vimhelp.org/quickref.txt.html#quickref Neovim - keymap
-https://docs.gimp.org/quickreference/gimp-keys-en.pdf  GIMP (PDF) - keymaphttps://neo.vimhelp.org/quickref.txt.html#quickref Neovim - keymap
-https://docs.gimp.org/quickreference/gimp-keys-en.pdf  GIMP (PDF) - keymap
-https://latextools.readthedocs.io/en/latest/keybindings  SublimeText \- LaTeXTools - keymap
-https://markoskon.com/creating-font-subsets Creating font subsets - guide
 https://mdrss.tijlvdb.me - webapp
 https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr The Faroes (2025) - blog
-https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex - bkm,asset
+https://airtable.com/appGc7YdwCFVYwTK8/shrY4CRFRaIhLjiBe/tbldCHol3ABwHG9ex - asset
 https://pegasus-frontend.org/tools Pegasus Tools Collection - webapp
 https://blog.brachiosoft.com/en/posts/git A Git story: Not so fun this time - blog
 https://github.com/MarcDiethelm/contributing Contributing - blog
 https://lambdaland.org/posts/2025-11-18_federate_your_forges Federate Away From GitHub - blog
 https://cadence.moe/blog/2022-07-03-git-forge-opinions-github-gitlab-gitea-sourcehut Git forge opinions: GitHub, GitLab, Gitea, Sourcehut - blog
-https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository Adding a license to a repository - guide
 https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights It Matters Who Owns Your Copylefted Copyrights - blog
-https://github.com/linrongbin16/fzfx.nvim?tab=readme-ov-file#git-for-windows Git for Windows - guide
-https://maurycyz.com/misc/easy_git You already have a git server: - guide
-https://github.com/jlevy/the-art-of-command-line The Art of Command Line - lession
-https://gist.github.com/garg-aayush/156ec6ddda3d62e2c0ddad00b7e66956 Steps to manage multiple CUDA environments - guide
 https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html Image Dithering: Eleven Algorithms and Source Code - blog
-https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful Customizing tmux and making it less dreadful - guide
-https://builtin.com/articles/tmux-config Tmux Config: A Guide - guide
-https://paulgorman.org/technical/vim.html Paul Gorman's Vim Cheatsheet - cheatsheet
+https://paulgorman.org/technical/vim.html Paul Gorman's Vim Cheatsheet - sheet
 https://danielmiessler.com/blog/vim Learn Vim For the Last Time - blog
-https://leanrada.com/notes/my-personalised-keyboard My personalised 55% split keyboard - guide
-https://drobinin.com/posts/designing-software-for-things-that-rot Designing Software for Things that Rot - guide
-https://arstechnica.com/gadgets/2022/03/the-ars-technica-guide-to-mechanical-keyboards The Ars Technica guide to mechanical keyboards - blog
 https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode 3D printing with unconventional vase mode - blog
-https://www.jonashietala.se/series/voron_trident Let's build a VORON Trident - guide
-https://mtlynch.io/tinypilot TinyPilot: Build a KVM Over IP for Under $100 - guide
-https://beancount.github.io/docs/index.html Beancount Documentation - document
-https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes Learn LaTeX in 30 minutes - lession
-https://sheepolution.com/learn/book/contents Sheepolution - lession
-https://github.com/love2d-community/LOVE-Example-Browser Löve-Example-Browser - lession,source
-https://ruoyusun.com/2013/03/23/pragmatic-lua-basics-in-30-mins.html Pragmatic Lua Basics in 30 Minutes - lession
-https://www.lua.org/manual/5.4/manual.html#3.1 lua \- Lexical Conventions - document
-https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf mpv.conf - guide
+https://www.tinkercad.com - lession,hardwave
+https://wokwi.com - lession,hardwave
+https://exercism.org - lession
+https://roadmap.sh - lession
+https://www.ubyte.dev - lession
 https://gameprogrammingpatterns.com/design-patterns-revisited.html Design Patterns Revisited - gamedev
 https://entropicthoughts.com/the-greatness-of-text-adventures The Greatness of Text Adventures - game
-https://dgross.ca/blog/linux-home-server-auto-sleep Making a Linux home server sleep on idle and wake on demand — the simple way - guide
-https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL Install Arch Linux on WSL - guide
-https://github.com/pixop/video-compare?tab=readme-ov-file#practical-tips pixop/video-compare \- Practical tips - guide
 https://creolened.com/windows-gui-good-bad-and-pretty-ugly-ranked Windows GUI: Good, Bad and Pretty Ugly (Ranked) - blog
-https://gist.github.com/en0ndev/0e70e5f07296fbfe3dd9628cd19615da How to Remove "Open in Visual Studio" in the Context Menu - guide
-https://docker-curriculum.com Docker for beginners - lession
 https://nesbitt.io/2025/12/06/github-actions-package-manager.html GitHub Actions Has a Package Manager, and It Might Be the Worst - blog
-https://transloadit.com/devtips/free-image-cdn-setup-with-github-pages-javascript-cdn Free image CDN: Github Pages & js - guide
 https://www.artmann.co/articles/30-years-of-br-tags 30 Years of <br> Tags - blog
 https://blog.apify.com/web-scraping-with-beautiful-soup Web scraping with Beautiful Soup & Requests (Python tutorial) - blog
-https://www.wezm.net/v2/posts/2024/tiny-cdn Building a Tiny CDN With pyinfra and Chimera Linux - guide
-https://cheatsheets.zip/html-char HTML Characters Entities cheatsheet - cheatsheet
+https://cheatsheets.zip/html-char HTML Characters Entities cheatsheet - sheet
 https://scryfall.com - game,data
 https://sketchfab.com - 3d,model
 https://www.behance.net - model
@@ -87,11 +157,6 @@ https://screenscraper.fr - asset,game
 https://love2d.org/forums - forum,love2d
 https://lemmasoft.renai.us/forums - forum,renpy
 https://www.reddit.com - forum
-https://www.tinkercad.com - lession,hardwave
-https://wokwi.com - lession,hardwave
-https://exercism.org - lession
-https://roadmap.sh - lession
-https://www.ubyte.dev - lession
 https://krasjet.com 「　」 - blog,site
 https://blog.tahnok.ca (Fake) Markov Chains - blog,site
 https://grimgrains.com/site/home.html GrimGrains - blog,site
@@ -151,16 +216,16 @@ https://spotidown.app - webapp,downloader
 https://tableconvert.com - webapp,converter
 https://www.virustotal.com - webapp,other
 https://gname.com - domain
-https://outlook.live.com/mail/0/ - email
+https://outlook.live.com/mail/0 - email
 https://mail.zoho.jp/zm/#mail - email
 https://mail.google.com - email
 https://mail.yandex.com - email
 https://vercel.com - cloud
 https://app.netlify.com - cloud
 https://www.cloudflare.com - cloud
-https://aistudio.tencent.com/agent?skill=aiTranslate - aic
-https://ima.qq.com - aic
-https://chat.z.ai - aic
+https://aistudio.tencent.com/agent?skill=aiTranslate - ai,zh
+https://ima.qq.com - ai,zh
+https://chat.z.ai - ai,zh
 http://localhost:8080 calibre - webapp,localhost
 http://localhost:5173 kiwix - webapp,localhost
 http://localhost:8501 marker - webapp,localhost
@@ -175,94 +240,28 @@ https://bitbucket.org/doggygo/url - vpn
 http://192.168.1.1/cgi-bin/luci - device
 http://192.168.31.1 Redmi - device
 https://scillidan.github.io - scillidan
-https://www.workbuddy.cn/profile/plans-usage - aic
-https://platform.deepseek.com/usage - aic
+https://www.workbuddy.cn/profile/plans-usage - ai,zh
+https://platform.deepseek.com/usage - ai,zh
 https://useful-forks.github.io - webapp,github
 https://asciiflow.com/# - webapp,diagram
 https://viliusle.github.io/miniPaint - webapp,draw
 https://quiver.app - webapp,diagram
-https://www.richardosgood.com/posts/banned-book-library  Banned Book Library - blog
-https://www.isik.dev/posts/Eigentechno.html  Eigentechno - blog,html
-https://pudding.cool/2025/03/language  How do animals sound across languages? - blog,html
-https://pudding.cool/2025/04/music-dna  How Sonic DNA Connects Generations of Music - blog,html
+https://www.richardosgood.com/posts/banned-book-library Banned Book Library - blog
+https://www.isik.dev/posts/Eigentechno.html Eigentechno - blog,html
+https://pudding.cool/2025/03/language How do animals sound across languages? - blog,html
+https://pudding.cool/2025/04/music-dna How Sonic DNA Connects Generations of Music - blog,html
 https://github.com/LPBeaulieu/Book-Generator-PrintABook - blog,source
-https://cheatsheets.zip/regex  Regex - cheatsheet
-https://alacritty.org/config-alacritty.html  Alacritty - config
-https://neovide.dev/config-file.html  Neovide - config
-https://neovide.dev/configuration.html  Neovide - config
-https://yazi-rs.github.io/docs/configuration/overview  Yazi - config
-https://wiki.archlinux.org/title/Newsboat  Newsboat - config,arch
-https://tmuxp.git-pull.com/configuration/index.html  tmuxp - config,arch
-https://chrisant996.github.io/clink/clink.html#clink-settings  Clink - config,windows
-https://alacritty.org/config-alacritty.html  Alacritty - document
-https://manual.audacityteam.org  Audacity - document
-https://darktable-org.github.io/dtdocs/en  Darktable - document
-https://dbeaver.com/docs/dbeaver  DBeaver - document
-https://dandavison.github.io/delta  delta - document
-https://espanso.org/docs/get-started  Espanso - document
-https://everything.curl.dev  everything curl - document
-https://ffmpeg.org/ffmpeg.html  FFmpeg - document
-https://wiki.freecad.org/Manual:Introduction  FreeCAD - document
-https://docs.gimp.org/index.html#gimp-online  GIMP - document
-https://docs.gimp.org/2.4/pdf/en.pdf  GIMP (PDF) - document
-https://git-cliff.org/docs  git-cliff - document
-https://harlequin.sh/docs/getting-started/usage  Harlequin - document
-https://inkscape-manuals.readthedocs.io/en/latest/index.html  Inkscape - document
-https://inkscape-manuals.readthedocs.io/en/latest  Inkscape (PDF) - document
-https://jj-for-everyone.github.io  Jujutsu for everyone - document
-https://docs.kdenlive.org/en/index.html  Kdenlive - document
-https://khal.readthedocs.io/en/latest/index.html  khal - document
-https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html  KiCad - document
-https://docs.krita.org/en  Krita - document
-https://masscode.io/documentation  massCode - document
-https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs  mdn - Web video codec guide - document
-https://mergiraf.org  Mergiraf - document
-https://omegat.sourceforge.io/manual-standard/en/index.html  OmegaT - document
-https://opencode.ai/docs  OpenCode - document
-https://docs.qgis.org/3.44/en/docs/index.html  QGIS - document
-https://docs.qgis.org/3.44/pdf  QGIS (PDF) - document
-https://rclone.org/docs  Rclone - document
-https://github.com/google/re2/wiki/Syntax  Regex - document
-https://download.samba.org/pub/rsync/rsync.1  rsync - document
-https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf  Shotcut (PDF) - document
-https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide  Sigil - document
-https://sioyek-documentation.readthedocs.io/en/latest  Sioyek - document
-https://docs.syncthing.net/users/syncthing.html  Syncthing - document
-https://man7.org/linux/man-pages/man1/xargs.1.html  xargs - document
-https://yazi-rs.github.io/docs/installation  Yazi - document
-https://wiki.gentoo.org/wiki/Cmus  cmus - Gentoo wiki - document,arch
-https://linux.die.net/man/1/cmus  cmus - Linux man page - document,arch
-https://newsboat.org/releases/2.10/docs/newsboat.html  Newsboat - document,arch
-https://github.com/pwmt/zathura/blob/develop/doc/man/zathura.1.rst  zathura.1.rst - document,arch
-https://www.conventionalcommits.org Conventional Commits - document,git
-https://keepachangelog.com Keep a Changelog - document,git
-https://semver.org Semantic Versioning - document,git
-https://www.autohotkey.com/docs/v2  AutoHotkey - document,windows
-https://chrisant996.github.io/clink/clink.html  Clink - document,windows
-https://github.com/ScoopInstaller/Scoop/wiki  Scoop - document,windows
-https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md  Scoop - Contributing - document,windows
-https://github.com/aelassas/servy/wiki  Servy - document,windows
-https://docs.mp3tag.de/mapping  Tag Field Mappings - document,windows
-https://nchrs.xyz/cmus.html  A command line music player. - guide
-https://shotstack.io/learn/convert-video-gif-ffmpeg  FFmpeg: MP4 to GIF guide - guide
-https://dev.to/alixwang/how-i-used-edge-tts-to-build-a-free-online-text-to-speech-site-47n9  How I Used Edge-TTS to Build a Free Online Text-to-Speech Site - guide
-https://rashil2000.me/blogs/tune-wezterm  How to Obsessively Tune WezTerm - guide
-https://ashishb.net/programming/python-in-production-2  How to run Python in production - guide
-https://composerprogrammer.com/introductiontocomputermusic.pdf  Introduction to Computer Music (PDF) - guide
-https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html  Python dependency management is a dumpster fire - guide
-https://docs.stirlingpdf.com/Installation/Unix%20Installation  Stirling-PDF - Unix Installation Guide - guide
-https://www.bilibili.com/opus/758833623770071061  小红书发布的动图为什么不动？ - guide
-https://github.com/jdpieck/Onshape-Boat-Tutorial  Onshape-Boat-Tutorial - guide,source
-https://exceljet.net/formulas  1000 Excel Formulas - lesson
-https://github.com/Asabeneh/30-Days-Of-Python  30 Days Of Python - lesson
-https://realpython.com/asteroids-game-python  Build an Asteroids Game With Python and Pygame - lesson
-https://github.com/Alexandrbig1/py-web  FullStack Web Development with Python - lesson
-https://learningmusic.ableton.com  Learning Music - lesson
-https://primer.prooftrading.com  Market Structure Primer - lesson
-https://github.com/graviraja/MLOps-Basics  MLOps-Basics - lesson
-https://svg-tutorial.com  SVG Tutorial - lesson
-http://midi.teragonaudio.com/tech/midispec.htm  The MIDI Specification - lesson
-https://www.nan.fyi/svg-paths  Understanding SVG Paths - lesson
+https://cheatsheets.zip/regex Regex - sheet
+https://exceljet.net/formulas 1000 Excel Formulas - lesson
+https://github.com/Asabeneh/30-Days-Of-Python 30 Days Of Python - lesson
+https://realpython.com/asteroids-game-python Build an Asteroids Game With Python and Pygame - lesson
+https://github.com/Alexandrbig1/py-web FullStack Web Development with Python - lesson
+https://learningmusic.ableton.com Learning Music - lesson
+https://primer.prooftrading.com Market Structure Primer - lesson
+https://github.com/graviraja/MLOps-Basics MLOps-Basics - lesson
+https://svg-tutorial.com SVG Tutorial - lesson
+http://midi.teragonaudio.com/tech/midispec.htm The MIDI Specification - lesson
+https://www.nan.fyi/svg-paths Understanding SVG Paths - lesson
 https://gchq.github.io/CyberChef - webapp,codec
 https://scillidan.github.io/js-image-carver - webapp,converter
 https://scillidan.github.io/ordered-dither-maker/docs - webapp,converter
