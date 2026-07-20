@@ -51,3 +51,7 @@ https://civitai.com/articles/24629/complete-guide-next-scene-generation-from-ima
 https://github.com/pvliesdonk/markdown-vault-mcp
 https://github.com/fonttools/fonttools
 https://github.com/earthtojake/text-to-cad
+https://github.com/GaParmar/img2img-turbo
+https://github.com/AvaLovelace1/BrickGPT - model
+https://github.com/partcad/partcad - model
+https://github.com/jo/hyperwood - model

@@ -1,3 +1,38 @@
+https://github.com/invoker-bot/war3map
+https://github.com/LingDong-/fishdraw - js
+https://github.com/Kazuhito00/NARUTO-HandSignDetection
+https://github.com/fastapi/typer - lib
+https://github.com/mpeterv/hererocks - lua
+https://github.com/AncientJames/multivox - hardware
+https://github.com/OpenDroneMap/ODM - hardware,drone
+https://github.com/ledfx/ledfx - hardware,led
+https://github.com/Aircoookie/WLED - hardware,led
+https://github.com/scottlawsonbc/audio-reactive-led-strip - hardware,led
+https://github.com/dekuNukem/duckyPad - hardware,keyboard
+https://diybookscanner.org/archivist/index.html - hardware,scaner
+https://www.maoken.com/freefonts/24675.html 字库江湖古风 - font
+https://www.maoken.com/freefonts/21952.html 峄山碑篆 - font
+https://www.maoken.com/freefonts/21775.html 平方赖江湖怀古 - font
+https://www.maoken.com/freefonts/21830.html 平方赖江湖琅琊 - font
+https://github.com/LingDong-/qiji-font 齊伋體 - font,serif
+https://www.maoken.com/freefonts/24749.html 汇迹正楷 - font,serif
+https://www.maoken.com/freefonts/24495.html 汇文仿宋 - font,serif
+https://github.com/LingDong-/tk-fangsong-font 剔骨仿宋 - font,serif
+https://www.maoken.com/freefonts/19417.html 京華老宋体 - font,serif
+https://github.com/rektdeckard/departure-mono Departure Mono - font,pixel
+https://deviantart.com/vicing/art/Grey-Tango-Cursor-little-115920099 - asset,cursor
+https://deviantart.com/vicing/art/Grey-Tango-Cursor-115807611 - asset,cursor
+https://gnome-look.org/p/2045954 - asset,cursor
+https://github.com/ful1e5/Bibata_Cursor_Rainbow - asset,cursor
+https://github.com/public-apis/public-apis - api
+https://github.com/spiritualized1997/openFPGA-Platform-Art-Set - asset
+https://github.com/nikolas-n/greek_audiobooks - book,audio
+https://github.com/PROxZIMA/boo-grub - asset
+https://github.com/StevenBlack/hosts - asset
+https://100.datavizproject.com - asset
+https://toumeya.itch.io/cosmica-v1-cursor-pack - asset,cursor
+https://github.com/rghv234/mini.cur - asset,cursor
+https://github.com/alsi-lawr/neotheme.nvim - neovim,theme
 https://github.com/Robbyant/lingbot-map - video
 https://github.com/Krasjet/pdf.tocgen - bin,pdf
 https://github.com/vladimirgamalyan/fontbm - bin,font
