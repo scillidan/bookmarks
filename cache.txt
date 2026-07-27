@@ -1,3 +1,6 @@
+https://github.com/pvliesdonk/markdown-vault-mcp - mcp
+https://github.com/xieyonn/blink-cmp-dat-word - blink
+https://github.com/mgalliou/blink-cmp-tmux - blink
 https://github.com/lintalist/lintalist-themes - lintalist
 https://sweetalert.js.org - js,alert
 https://umami.is - js,analyze

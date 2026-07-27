@@ -1,17 +1,6 @@
 https://github.com/mayocream/koharu - text
-https://github.com/proudust/gh-describe - git,tag
-https://github.com/marketplace/actions/cve-lite-cli - act
-https://github.com/apps/ecc-tools - act
 https://tympanus.net/codrops/2025/06/18/coding-a-3d-audio-visualizer-with-three-js-gsap-web-audio-api - js,wallpaper
-https://github.com/embedpdf/embed-pdf-viewer - web
-https://github.com/sambecker/exif-photo-blog - web
-https://github.com/goodreasonai/abbey - web,llm
-https://github.com/xieyonn/blink-cmp-dat-word - blink
-https://github.com/mgalliou/blink-cmp-tmux - blink
-https://raphgl.github.io/Tuckr - dotfile
-https://github.com/Freed-Wu/manpager - bash
-https://github.com/JB63134/bash_h - bash
-https://github.com/HalFrgrd/flyline - bash
+
 https://github.com/scillidan/pegasus-theme-999 - game
 https://github.com/Abdess/retrobios - game
 https://github.com/a327ex/BYTEPATH - game,love
@@ -35,6 +24,23 @@ https://ember-paw-games.itch.io/gaunt-valkyr - game
 https://korogames.itch.io/htl - game
 https://unnamecollective.itch.io/retriggered - game
 https://giantlight.itch.io/the-only-tower - game
+
+https://github.com/GaParmar/img2img-turbo
+https://github.com/earthtojake/text-to-cad
+https://github.com/AvaLovelace1/BrickGPT - model
+https://github.com/partcad/partcad - model
+https://github.com/jo/hyperwood - model
+
+https://github.com/proudust/gh-describe - git,tag
+https://github.com/marketplace/actions/cve-lite-cli - act
+https://github.com/apps/ecc-tools - act
+https://github.com/embedpdf/embed-pdf-viewer - web
+https://github.com/sambecker/exif-photo-blog - web
+https://github.com/goodreasonai/abbey - web,llm
+https://raphgl.github.io/Tuckr - dotfile
+https://github.com/Freed-Wu/manpager - bash
+https://github.com/JB63134/bash_h - bash
+https://github.com/HalFrgrd/flyline - bash
 https://github.com/BlackMATov/evolved.lua - love2d,ecs
 https://github.com/Oval-Tutu/shove - love2d,screen
 https://github.com/Oval-Tutu/bootstrap-love2d-project - love2d,packager
@@ -49,10 +55,4 @@ https://vladar.bearblog.dev/public-domain-art-preparation-in-color Public Domain
 https://github.com/gibbok/typescript-book - lession,typst
 https://github.com/let-def/texpresso - latex
 https://civitai.com/articles/24629/complete-guide-next-scene-generation-from-images-in-comfyui - comfyui
-https://github.com/pvliesdonk/markdown-vault-mcp
 https://github.com/fonttools/fonttools
-https://github.com/earthtojake/text-to-cad
-https://github.com/GaParmar/img2img-turbo
-https://github.com/AvaLovelace1/BrickGPT - model
-https://github.com/partcad/partcad - model
-https://github.com/jo/hyperwood - model
