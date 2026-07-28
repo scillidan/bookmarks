@@ -268,7 +268,6 @@ https://github.com/1bardesign/batteries - lua
 https://github.com/ianmaclarty/amulet - lua
 https://www.skraper.net - app,game
 https://thatsmytrunks.itch.io/controllerdisplay - app,game
-
 https://github.com/rootknight/Miniflux-Theme-Reeder - srv,miniflux
 https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc - srv,jackett
 https://github.com/github-young/ClipDict - srv,dictd
@@ -339,7 +338,6 @@ https://github.com/mfa/datasette-webhook-write - datasette
 https://github.com/datasette/datasette-write-ui - datasette
 https://github.com/dogsheep/github-to-sqlite - datasette
 https://github.com/ryancheley/pelican-to-sqlite - datasette
-
 https://github.com/chmouel/gh-news - gh,#arch
 https://github.com/fchimpan/gh-slimify - gh,runner
 https://github.com/rnorth/gh-combine-prs - gh,pr
@@ -415,7 +413,6 @@ https://github.com/hrsh7th/cmp-buffer - blink
 https://github.com/hrsh7th/cmp-cmdline - blink
 https://github.com/jmbuhr/cmp-pandoc-references - blink
 https://github.com/hrsh7th/cmp-path - blink
-
 https://github.com/narnaud/git-repos - git
 https://github.com/git-chglog/git-chglog - git
 https://github.com/chriswalz/bit - git
@@ -435,11 +432,9 @@ https://github.com/extrawurst/gitui - git
 https://github.com/muandane/goji - git
 https://mercurial-scm.org - git
 https://github.com/Ataraxy-Labs/sem - git
-
 https://github.com/Siddy212/iconic-es-de - es-de,theme
 https://github.com/anthonycaccese/mister-menu-es-de - es-de,theme
 https://gitlab.com/es-de/themes/modern-es-de - es-de,theme
-
 https://github.com/pranshuparmar/witr - bin,#arch
 https://github.com/muesli/duf - bin,#arch
 https://github.com/mhadidg/abbr-cli - bin,abbreviate
@@ -734,7 +729,6 @@ https://github.com/samwho/spacer - bin
 https://github.com/ad-si/Transity - bin
 https://github.com/eckyputrady/ttrack - bin
 https://github.com/haoliangyu/cmdgraph - bin,document
-
 https://github.com/ppoffice/hexo-theme-icarus - web,hexo
 https://github.com/hexojs/hexo-deployer-git - web,hexo
 https://github.com/lunarmodules/ldoc - web,document,api
@@ -765,7 +759,6 @@ https://hexo.io - web
 https://casual-effects.com/markdeep - web
 https://github.com/orderedlist/minimal - web
 https://github.com/theseus-os/Theseus - web
-
 https://github.com/actions/starter-workflows - gh-action
 https://github.com/kujov/gitlab-sync - gh-action
 https://github.com/AnimMouse/torrent-webseed-creator - gh-action
@@ -783,13 +776,11 @@ https://github.com/BaileyJM02/markdown-to-pdf - gh-action
 https://github.com/sylingd/tencent-cos-and-cdn-action - gh-action
 https://github.com/actions/upload-artifact - gh-action
 https://github.com/simonw/shot-scraper-template - gh-action
-
 https://github.com/cre8tiv/n8n-docx-converter - n8n
 https://github.com/pdfdotco/n8n-nodes-pdfco - n8n
 https://github.com/bramkn/n8n-nodes-pdfkit - n8n
 https://github.com/pdforge/n8n-nodes-pdforge - n8n
 https://github.com/0xtlt/n8n-nodes-qrcode - n8n
-
 https://github.com/ibensw/LsBookmarks - subl,bookmark
 https://github.com/pieces-app/plugin_sublime - subl,code
 https://github.com/Colorsublime/Colorsublime-Plugin - subl,color
@@ -888,7 +879,6 @@ https://github.com/loggerhead/Layout - subl,window
 https://github.com/kyoobey/ProjectAndWorkspaceManagement - subl,workspace
 https://github.com/randy3k/ProjectManager - subl,workspace
 https://github.com/dementive/SublimeGodot - subl,SublimeGodot
-
 https://github.com/awfrok/obsidian-plugin-bibtex-entry-view - obsidian
 https://github.com/hans/obsidian-citation-plugin - obsidian
 https://github.com/jeetsukumaran/obsidian-focus-tracker - obsidian
@@ -1083,20 +1073,19 @@ https://github.com/22-2/wheel-tab-switcher - obsidian
 https://github.com/RafaelGB/Obsidian-ZettlelFlow - obsidian
 https://github.com/dongguaguaguagua/zhihu_obsidian - obsidian
 https://github.com/vslinko/obsidian-zoom - obsidian
-
-https://github.com/jonniek/mpv-nextfile - mpv,image 
+https://github.com/jonniek/mpv-nextfile - mpv,image
 https://github.com/stax76/mpv-scripts - mpv,karaok
-https://github.com/hhirtz/mpv-retro-shaders - mpv,shader 
-https://github.com/jonniek/mpv-filenavigator - mpv,file 
-https://github.com/ayghub/open-dir - mpv,file 
-https://github.com/Seme4eg/mpv-scripts - mpv,keymap 
-https://github.com/Seme4eg/mpv-scripts - mpv,keymap 
-https://github.com/CogentRedTester/mpv-search-page - mpv,keymap 
-https://github.com/jonniek/mpv-playlistmanager - mpv,playlist 
-https://github.com/paradox460/mpv-scripts - mpv,playlist 
-https://github.com/liberlanco/mpv-lang-learner - mpv,subtitle 
-https://github.com/ben-kerman/mpv-sub-scripts - mpv,subtitle 
-https://github.com/Zren/mpv-osc-tethys - mpv,ui 
+https://github.com/hhirtz/mpv-retro-shaders - mpv,shader
+https://github.com/jonniek/mpv-filenavigator - mpv,file
+https://github.com/ayghub/open-dir - mpv,file
+https://github.com/Seme4eg/mpv-scripts - mpv,keymap
+https://github.com/Seme4eg/mpv-scripts - mpv,keymap
+https://github.com/CogentRedTester/mpv-search-page - mpv,keymap
+https://github.com/jonniek/mpv-playlistmanager - mpv,playlist
+https://github.com/paradox460/mpv-scripts - mpv,playlist
+https://github.com/liberlanco/mpv-lang-learner - mpv,subtitle
+https://github.com/ben-kerman/mpv-sub-scripts - mpv,subtitle
+https://github.com/Zren/mpv-osc-tethys - mpv,ui
 https://github.com/jonniek/mpv-scripts - mpv,
 https://github.com/linguisticmind/mpv-scripts - mpv
 https://github.com/zenyd/mpv-scripts - mpv
@@ -1118,118 +1107,118 @@ https://github.com/he2a/mpv-scripts - mpv
 https://github.com/ajatt-tools/videoclip - mpv
 https://github.com/mfcc64/mpv-scripts - mpv
 https://github.com/Ben-Kerman/immersive - mpv,anki
-https://github.com/ajatt-tools/mpvacious - mpv,anki 
-https://github.com/SenneH/mpv2anki - mpv,anki 
-https://github.com/sdaqo/mpv-subs-popout - mpv,Arch 
-https://github.com/guarapicci/mpv-omniGlass - mpv,Arch 
-https://github.com/mesvam/ff-silence - mpv,audio 
-https://github.com/ferreum/mpv-skipsilence - mpv,audio 
-https://github.com/UlyssesZh/bdanmaku - mpv,bilibili 
-https://github.com/chuangzhu/mpv-bilibili-chat - mpv,bilibili 
-https://github.com/NurioHin/mpv-bookmarker - mpv,bookmark 
-https://github.com/pyronone/mpv_minimal_bookmarks - mpv,bookmark 
-https://github.com/eisa01/mpv-scripts - mpv,bookmark 
-https://github.com/guidocella/mpv-console-select - mpv,build-in 
-https://github.com/fbriere/mpv-scripts - mpv,build-in 
-https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae - mpv,chapter 
-https://github.com/cogentredtester/mpv-scripts - mpv,chapter 
-https://github.com/familyfriendlymikey/mpv-cut - mpv,cut 
-https://github.com/pvpscript/mpv-video-splice - mpv,cut 
-https://github.com/snylonue/mpv_slicing_copy - mpv,cut 
-https://github.com/aerobounce/trim.lua - mpv,cut 
-https://github.com/ryze312/mpv-rpc - mpv,discord 
-https://github.com/noaione/mpv-discordRPC - mpv,discord 
-https://github.com/UTD-JLA/mpv-discord-karaoke - mpv,discord 
-https://github.com/tnychn/mpv-discord - mpv,discord 
-https://github.com/cniw/mpv-discordRPC - mpv,discord 
-https://github.com/yutotakano/mpvcord - mpv,discord 
-https://github.com/zenwarr/mpv-config - mpv,file 
-https://github.com/CogentRedTester/mpv-file-browser - mpv,file 
-https://github.com/nimatrueway/mpv-locatefile-lua-script - mpv,file 
-https://github.com/rossy/mpv-open-file-dialog - mpv,file 
-https://gist.github.com/Sneakpeakcss/05a97d509b8be67a6f11400b0bee54ab - mpv,file 
-https://gitlab.com/lvml/mpv-plugin-review - mpv,file 
-https://github.com/zc62/mpv-scripts - mpv,image 
-https://github.com/noctuid/gallery-dl-view - mpv,image 
-https://github.com/dyphire/mpv-scripts - mpv,karaok 
-https://gist.github.com/bitingsock/5e9714efff963c9689b0671d68f195ad - mpv,karaok 
-https://github.com/cogentredtester/mpv-scripts - mpv,karaok 
-https://github.com/Atreyagaurav/local-mpv - mpv,karaok 
-https://github.com/husudosu/mpv-remote-app - mpv,karaok 
-https://github.com/70sh1/mpv-switch-both-audio - mpv,karaok 
-https://github.com/myQwil/mpv-volunit - mpv,karaok 
-https://github.com/spaghettijeff/mpvRemote - mpv,karaok 
-https://github.com/open-dynamix/simple-mpv-webui - mpv,karaok 
-https://github.com/mustaqimM/mpv-scripts - mpv,karaok 
-https://github.com/ento/mpv-cheatsheet - mpv,keymap 
-https://github.com/ArkThis/AmPv - mpv,arch 
-https://github.com/fatihkaan22/mpv-bluetooth-av-delay - mpv,arch 
-https://github.com/linguisticmind/mpv-scripts - mpv,arch 
-https://github.com/sammoth/foo_mpv - mpv,arch 
-https://gitlab.com/christosangel/genmon-mpv - mpv,arch 
-https://github.com/CounterPillow/mpv-gpufreq - mpv,arch 
-https://github.com/oltodosel/intersubs - mpv,arch 
-https://github.com/po5/libass_sub_selector - mpv,arch 
-https://github.com/arjanverkerk/mbrowser - mpv,arch 
-https://gist.github.com/crazygolem/a7d3a2d3c0cee5d072c0cbbbdee69286 - mpv,arch 
-https://github.com/mdnghtman/mpv-i3-floating-centered - mpv,arch 
-https://github.com/ZreXoc/mpv-loop-until - mpv,arch 
-https://github.com/hoyon/mpv-mpris - mpv,arch 
-https://github.com/Parranoh/mpv-notify-send - mpv,arch 
-https://github.com/mpv-notify/mpv-notify - mpv,arch 
-https://github.com/jgreco/mpv-pdf - mpv,arch 
-https://gist.github.com/ftk/5e26656a2ec9a6cb0fef46918f741d0a - mpv,arch 
-https://github.com/budRich/mpv-xfce-genmonify - mpv,arch 
-https://github.com/GhostNaN/mpvpaper - mpv,arch 
-https://github.com/glubsy/mpv-limited-autoload - mpv,arch 
-https://github.com/fxmarty/rikai-mpv - mpv,arch 
-https://gist.github.com/elenril/f8ff9475a7882b7a16cdd723c7dce150 - mpv,arch 
-https://github.com/maoiscat/mpv-osc-framework - mpv,osc 
-https://github.com/linguisticmind/mpv-scripts - mpv,osc 
-https://github.com/vflorelle/mpv-scripts - mpv,osc 
-https://github.com/vc-01/metadata-osd - mpv,osd 
-https://github.com/nmoorthy524/mpv-Change-OSD-Media-Title - mpv,osd 
-https://github.com/hishiro64/auto-mpv - mpv,preset 
-https://github.com/jongwastaken/easympv - mpv,preset 
-https://github.com/fbriere/mpv-scripts - mpv,preset 
-https://github.com/zhongfly/mpv-winbuild - mpv,setup 
-https://github.com/butterw/bShaders - mpv,shader 
-https://github.com/iwalton3/default-shader-pack - mpv,shader 
-https://github.com/bjin/mpv-prescalers - mpv,shader 
-https://github.com/AN3223/dotfiles - mpv,shader 
-https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214 - mpv,shader 
-https://github.com/LitCastVlog/Plex-GLSL-Shaders - mpv,shader 
-https://github.com/davidde/mpv-autosub - mpv,subtitle 
-https://github.com/pierretom/autoselect-forced-sub - mpv,subtitle 
-https://github.com/jtaala/mpv-mute-on-specific-subtitle-words - mpv,subtitle 
-https://github.com/chaorderss/mpv-auto-translater - mpv,subtitle 
-https://github.com/assrtoss/mpv-assrt - mpv,subtitle 
-https://github.com/nairyosangha/mpv-subversive - mpv,subtitle 
-https://github.com/kuroahna/mpv_websocket - mpv,subtitle 
-https://github.com/abrahamsalloum/opensubmpv - mpv,subtitle 
-https://github.com/kelciour/playphrase - mpv,subtitle 
-https://github.com/ayghub/rename-sub - mpv,subtitle 
-https://github.com/zc62/mpv-scripts - mpv,subtitle 
-https://github.com/zenyd/mpv-scripts - mpv,subtitle 
-https://github.com/Ajatt-Tools/sub-transition - mpv,subtitle 
-https://github.com/zenwarr/mpv-config - mpv,subtitle 
-https://github.com/energostalin/subtitle-translate-mpv - mpv,subtitle 
-https://github.com/dyphire/mpv-scripts - mpv,track 
-https://github.com/cyl0/ModernX - mpv,ui 
-https://github.com/Samillion/ModernZ - mpv,ui 
-https://github.com/1-minute-to-midnight/mpv-modern-x-compact - mpv,ui 
-https://github.com/0dist/oscc - mpv,ui 
-https://github.com/tomasklaen/uosc - mpv,ui 
-https://github.com/rozari0/mpv-youtube-search - mpv,youtube 
-https://github.com/willswats/mpv-youtube-search - mpv,youtube 
-https://github.com/ksyasuda/mpv-youtube-queue - mpv,youtube 
-https://github.com/Samillion/mpv-ytdlautoformat - mpv,youtube 
-https://github.com/po5/mpv_sponsorblock - mpv,youtube 
-https://codeberg.org/jouni/mpv_sponsorblock_minimal - mpv,youtube 
-https://github.com/cvzi/mpv-youtube-download - mpv,youtube 
-https://github.com/jgreco/mpv-youtube-quality - mpv,youtube 
-https://github.com/bitingsock/ytdl-preload - mpv,youtube 
-https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6 - mpv,youtube 
+https://github.com/ajatt-tools/mpvacious - mpv,anki
+https://github.com/SenneH/mpv2anki - mpv,anki
+https://github.com/sdaqo/mpv-subs-popout - mpv,Arch
+https://github.com/guarapicci/mpv-omniGlass - mpv,Arch
+https://github.com/mesvam/ff-silence - mpv,audio
+https://github.com/ferreum/mpv-skipsilence - mpv,audio
+https://github.com/UlyssesZh/bdanmaku - mpv,bilibili
+https://github.com/chuangzhu/mpv-bilibili-chat - mpv,bilibili
+https://github.com/NurioHin/mpv-bookmarker - mpv,bookmark
+https://github.com/pyronone/mpv_minimal_bookmarks - mpv,bookmark
+https://github.com/eisa01/mpv-scripts - mpv,bookmark
+https://github.com/guidocella/mpv-console-select - mpv,build-in
+https://github.com/fbriere/mpv-scripts - mpv,build-in
+https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae - mpv,chapter
+https://github.com/cogentredtester/mpv-scripts - mpv,chapter
+https://github.com/familyfriendlymikey/mpv-cut - mpv,cut
+https://github.com/pvpscript/mpv-video-splice - mpv,cut
+https://github.com/snylonue/mpv_slicing_copy - mpv,cut
+https://github.com/aerobounce/trim.lua - mpv,cut
+https://github.com/ryze312/mpv-rpc - mpv,discord
+https://github.com/noaione/mpv-discordRPC - mpv,discord
+https://github.com/UTD-JLA/mpv-discord-karaoke - mpv,discord
+https://github.com/tnychn/mpv-discord - mpv,discord
+https://github.com/cniw/mpv-discordRPC - mpv,discord
+https://github.com/yutotakano/mpvcord - mpv,discord
+https://github.com/zenwarr/mpv-config - mpv,file
+https://github.com/CogentRedTester/mpv-file-browser - mpv,file
+https://github.com/nimatrueway/mpv-locatefile-lua-script - mpv,file
+https://github.com/rossy/mpv-open-file-dialog - mpv,file
+https://gist.github.com/Sneakpeakcss/05a97d509b8be67a6f11400b0bee54ab - mpv,file
+https://gitlab.com/lvml/mpv-plugin-review - mpv,file
+https://github.com/zc62/mpv-scripts - mpv,image
+https://github.com/noctuid/gallery-dl-view - mpv,image
+https://github.com/dyphire/mpv-scripts - mpv,karaok
+https://gist.github.com/bitingsock/5e9714efff963c9689b0671d68f195ad - mpv,karaok
+https://github.com/cogentredtester/mpv-scripts - mpv,karaok
+https://github.com/Atreyagaurav/local-mpv - mpv,karaok
+https://github.com/husudosu/mpv-remote-app - mpv,karaok
+https://github.com/70sh1/mpv-switch-both-audio - mpv,karaok
+https://github.com/myQwil/mpv-volunit - mpv,karaok
+https://github.com/spaghettijeff/mpvRemote - mpv,karaok
+https://github.com/open-dynamix/simple-mpv-webui - mpv,karaok
+https://github.com/mustaqimM/mpv-scripts - mpv,karaok
+https://github.com/ento/mpv-cheatsheet - mpv,keymap
+https://github.com/ArkThis/AmPv - mpv,arch
+https://github.com/fatihkaan22/mpv-bluetooth-av-delay - mpv,arch
+https://github.com/linguisticmind/mpv-scripts - mpv,arch
+https://github.com/sammoth/foo_mpv - mpv,arch
+https://gitlab.com/christosangel/genmon-mpv - mpv,arch
+https://github.com/CounterPillow/mpv-gpufreq - mpv,arch
+https://github.com/oltodosel/intersubs - mpv,arch
+https://github.com/po5/libass_sub_selector - mpv,arch
+https://github.com/arjanverkerk/mbrowser - mpv,arch
+https://gist.github.com/crazygolem/a7d3a2d3c0cee5d072c0cbbbdee69286 - mpv,arch
+https://github.com/mdnghtman/mpv-i3-floating-centered - mpv,arch
+https://github.com/ZreXoc/mpv-loop-until - mpv,arch
+https://github.com/hoyon/mpv-mpris - mpv,arch
+https://github.com/Parranoh/mpv-notify-send - mpv,arch
+https://github.com/mpv-notify/mpv-notify - mpv,arch
+https://github.com/jgreco/mpv-pdf - mpv,arch
+https://gist.github.com/ftk/5e26656a2ec9a6cb0fef46918f741d0a - mpv,arch
+https://github.com/budRich/mpv-xfce-genmonify - mpv,arch
+https://github.com/GhostNaN/mpvpaper - mpv,arch
+https://github.com/glubsy/mpv-limited-autoload - mpv,arch
+https://github.com/fxmarty/rikai-mpv - mpv,arch
+https://gist.github.com/elenril/f8ff9475a7882b7a16cdd723c7dce150 - mpv,arch
+https://github.com/maoiscat/mpv-osc-framework - mpv,osc
+https://github.com/linguisticmind/mpv-scripts - mpv,osc
+https://github.com/vflorelle/mpv-scripts - mpv,osc
+https://github.com/vc-01/metadata-osd - mpv,osd
+https://github.com/nmoorthy524/mpv-Change-OSD-Media-Title - mpv,osd
+https://github.com/hishiro64/auto-mpv - mpv,preset
+https://github.com/jongwastaken/easympv - mpv,preset
+https://github.com/fbriere/mpv-scripts - mpv,preset
+https://github.com/zhongfly/mpv-winbuild - mpv,setup
+https://github.com/butterw/bShaders - mpv,shader
+https://github.com/iwalton3/default-shader-pack - mpv,shader
+https://github.com/bjin/mpv-prescalers - mpv,shader
+https://github.com/AN3223/dotfiles - mpv,shader
+https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214 - mpv,shader
+https://github.com/LitCastVlog/Plex-GLSL-Shaders - mpv,shader
+https://github.com/davidde/mpv-autosub - mpv,subtitle
+https://github.com/pierretom/autoselect-forced-sub - mpv,subtitle
+https://github.com/jtaala/mpv-mute-on-specific-subtitle-words - mpv,subtitle
+https://github.com/chaorderss/mpv-auto-translater - mpv,subtitle
+https://github.com/assrtoss/mpv-assrt - mpv,subtitle
+https://github.com/nairyosangha/mpv-subversive - mpv,subtitle
+https://github.com/kuroahna/mpv_websocket - mpv,subtitle
+https://github.com/abrahamsalloum/opensubmpv - mpv,subtitle
+https://github.com/kelciour/playphrase - mpv,subtitle
+https://github.com/ayghub/rename-sub - mpv,subtitle
+https://github.com/zc62/mpv-scripts - mpv,subtitle
+https://github.com/zenyd/mpv-scripts - mpv,subtitle
+https://github.com/Ajatt-Tools/sub-transition - mpv,subtitle
+https://github.com/zenwarr/mpv-config - mpv,subtitle
+https://github.com/energostalin/subtitle-translate-mpv - mpv,subtitle
+https://github.com/dyphire/mpv-scripts - mpv,track
+https://github.com/cyl0/ModernX - mpv,ui
+https://github.com/Samillion/ModernZ - mpv,ui
+https://github.com/1-minute-to-midnight/mpv-modern-x-compact - mpv,ui
+https://github.com/0dist/oscc - mpv,ui
+https://github.com/tomasklaen/uosc - mpv,ui
+https://github.com/rozari0/mpv-youtube-search - mpv,youtube
+https://github.com/willswats/mpv-youtube-search - mpv,youtube
+https://github.com/ksyasuda/mpv-youtube-queue - mpv,youtube
+https://github.com/Samillion/mpv-ytdlautoformat - mpv,youtube
+https://github.com/po5/mpv_sponsorblock - mpv,youtube
+https://codeberg.org/jouni/mpv_sponsorblock_minimal - mpv,youtube
+https://github.com/cvzi/mpv-youtube-download - mpv,youtube
+https://github.com/jgreco/mpv-youtube-quality - mpv,youtube
+https://github.com/bitingsock/ytdl-preload - mpv,youtube
+https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6 - mpv,youtube
 https://github.com/trigger337/anilabxmax-mpv-fix - mpv,
 https://github.com/Kibakus/mpv-scripts - mpv
 https://github.com/fbriere/mpv-scripts - mpv
@@ -1315,7 +1304,6 @@ https://github.com/oltodosel/mpv-scripts - mpv
 https://github.com/blue-sky-r/mpv - mpv
 https://github.com/hakkin/twitchpipe - mpv
 https://github.com/ramkafasi/whisper-mpv - mpv
-
 https://github.com/pradyunsg/furo - sphinx
 https://github.com/executablebooks/MyST-Parser - sphinx
 https://github.com/pradyunsg/sphinx-inline-tabs - sphinx
@@ -1392,7 +1380,6 @@ https://pythonhosted.org/sphinxcontrib-autoprogram/ - sphinx
 https://github.com/finleyfamily/sphinxcontrib.external-links - sphinx
 https://github.com/sphinx-notes/project - sphinx
 https://github.com/Xiangyu-Hu/SPHinXsys - sphinx
-
 https://github.com/jalvesaq/dict.nvim - nvim
 https://github.com/Nealium/dict-popup.nvim - nvim
 https://github.com/heilgar/bookmarks.nvim - nvim,bookmark
@@ -1736,7 +1723,6 @@ https://github.com/johannww/tts.nvim - nvim
 https://github.com/ravsii/timers.nvim - nvim
 https://github.com/gisketch/triforce.nvim - nvim
 https://github.com/yukimura1227/vim-yazi - nvim
-
 https://github.com/Naereen/LaTeX_template_to_print_Magic_cards - typst
 https://typst.app/universe/package/marge - typst,components
 https://typst.app/universe/package/marginalia - typst,utility
@@ -1943,7 +1929,6 @@ https://typst.app/universe/package/riichinator - typst,visualization
 https://typst.app/universe/package/rivet - typst,visualization
 https://typst.app/universe/package/tdtr - typst,visualization
 https://typst.app/universe/package/vmesh - typst,visualization
-
 https://github.com/jabref/jabref - latex,bibliography
 https://xm1math.net/texmaker - latex,editor
 https://github.com/sylvainhalle/textidote - latex,linter
@@ -1959,7 +1944,6 @@ https://github.com/Vladar4/retrotype - latex
 https://www.overleaf.com/latex/templates/screenplay-template/grqmtrnytdhj - latex
 https://github.com/logological/thesis-invitation - latex
 https://gitlab.com/bengreenman/wedding-invitation - latex
-
 https://github.com/DUznanski/vornmath - love2d,math
 https://github.com/Nikaoto/deep - love2d,action
 https://github.com/dknight/polysec - love2d,action
@@ -2060,7 +2044,6 @@ https://github.com/SiENcE/luis - love2d,ui
 https://github.com/gvx/bitser - love2d
 https://github.com/WetDesertRock/GifCat - love2d
 https://codeberg.org/togfox/Lovely-Toasts - love2d
-
 https://github.com/enzo1982/freac - app,audio
 https://github.com/Martchus/tageditor - app,audio
 https://github.com/eibol/ffmpeg_batch - app,video
@@ -2257,7 +2240,6 @@ https://github.com/BloopAI/vibe-kanban - app
 https://github.com/yuka-friends/Windrecorder - app
 https://github.com/samhocevar/wincompose - app
 https://github.com/pit-ray/win-vind - app
-
 https://citra-emulator.com - game,3ds
 https://github.com/cellos51/balatro-gba - game,c
 https://github.com/rapiz1/DungeonRush - game,c
@@ -2301,7 +2283,6 @@ https://github.com/garicluka/termines - game
 https://hypnohead.itch.io/the-king-is-watching - game
 https://astrochili.itch.io/the-secret-laboratory - game
 https://anttihaavikko.itch.io/totem-of-seeding - game
-
 https://github.com/themoeway/local-audio-yomichan - srv
 https://github.com/linuxserver/docker-resilio-sync - srv,sync
 https://github.com/pluja/whishper - srv
@@ -2452,3 +2433,48 @@ https://pbnj.sh - srv
 https://github.com/dgtlmoon/changedetection.io - srv
 https://github.com/openzim/zimit-frontend - srv
 https://github.com/edrlab/thorium-web - srv
+https://www.bilibili.com/video/BV13s411x7jQ 【大合集】黑暗之魂1 全剧情全道具分析全流程攻略解说 - gameplay
+https://www.bilibili.com/video/BV1ax411U7Qx 【猫粮解说】《黑暗之魂3》剧情解析向解说 合集 - gameplay
+https://www.bilibili.com/video/BV1gs411s7K3 【血源诅咒】剧情解析向解说（重传合集） - gameplay
+https://www.bilibili.com/video/BV1EE411q7Vp 【完结】老戴《死亡搁浅》剧情向精剪全流程解说【公路，索道全通】【包含无解说纯享版】 - gameplay
+https://www.bilibili.com/video/BV1tL411P7NG 【TUNIC】全成就真结局流程(完结)【Pign】 - gameplay
+https://www.bilibili.com/video/BV1ru411G72u 悬疑惊悚《三伏》实况 完结（录播） - gameplay
+https://www.bilibili.com/video/BV1fW411m7sE [灰连][圣殿春秋] 通关视频(全三卷 21章) (无解说) - gameplay
+https://www.bilibili.com/video/BV1np4y1i7qq 国产恐怖游戏《烟火》demo实况完结 - gameplay
+https://www.bilibili.com/video/BV1wv4y1Z7pd 国产恐怖解谜《烟火》实况完结 - gameplay
+https://www.bilibili.com/video/BV1a54y1u7Yn 【雨世界】通关攻略解说 - gameplay
+https://www.bilibili.com/video/BV17s411x7xK [完结28P]_皇家骑士团2-命运之轮-全剧情攻略流程+LCN路线分歧NPC加入+DLC流程+死者宫殿_[大P] - gameplay
+https://www.bilibili.com/video/BV1YZ4y1T7yL 精灵鼠传说（Ghost of a Tale）无解说休闲剧情流程 - gameplay
+https://www.bilibili.com/video/BV1Au4y1B7GM 年度CRPG游戏《博德之门3》硬核难度攻略+剧情 - gameplay
+https://www.bilibili.com/video/BV1VX4y1a7vj 黑曜石满分神作《Pentiment隐迹渐现》中文实况合集（完结） - gameplay
+https://www.bilibili.com/video/BV1UhfBYGEea [像素RPG/多视角/百合/恐怖/悬疑/解谜] 逃离地狱边缘~修道院的悬疑物语（全剧情全结局及彩蛋番外更新完毕：深呼吸，这只是游戏。） - gameplay
+https://www.bilibili.com/video/BV1Gw4m1Q772 【谜之声实况】动物井 ANIMAL WELL 神秘氛围解谜银河城 第一期 - gameplay
+https://www.bilibili.com/video/BV1af421R7Md 【幽灵霍迪】 Hauntii全流程通关-动作冒险解谜游戏（END） - gameplay
+https://www.bilibili.com/video/BV1iQz2YwE4q 【红豆】慢热的复古像素风恐怖推理游戏！星影之馆杀人事件 - gameplay
+https://www.bilibili.com/video/BV1RrgczzE8Y 怂包主播大战中式恐怖，吓懵了大哥别杀我啊啊啊啊啊【游戏实况】 - gameplay
+https://www.bilibili.com/video/BV1LNdwYCESF 【地缚猫QB】乌鸦之国Crow Country【通关达成】！ - gameplay
+https://www.bilibili.com/video/BV1ti421d7hp 无光之海（sunless sea）01【实况+全结局】【使用来自贴吧kaitai97分享的高完整度翻译包】 - gameplay
+https://www.bilibili.com/video/BV12TcxzqEhw 【谜之声实况】喵喵的结合 Mewgenics 初见第一局！暴打炸弹鼠！ - gameplay
+https://www.bilibili.com/video/BV1iv4y1X7eM 【电玩先生】《饥饿与恐惧》EP02：注意！他是外乡人不是野蛮人！ - gameplay
+https://youtube.com/watch?v=iVNqvxl2xyo re:plus - White Avenue - music,newage
+https://youtube.com/watch?v=7n63UFIyQgo Dennis Kuo - Track in Time - music,newage
+https://youtube.com/watch?v=kNUlkhpN5II Rat & Co - Spring II - music,newage
+https://youtube.com/watch?v=ZR4hOy5fBUI Painless Destiny - Purity - music,newage
+https://youtube.com/watch?v=RfbuVdT6Wqk KOSIKK - October - music,newage
+https://www.youtube.com/watch?v=imxkyOQRRkg Rautu - Night Trip (Original Mix) - music,newage
+https://youtube.com/watch?v=sW1O4Q_POfs Sophie Hutchings - Memory I - music,newage
+https://youtube.com/watch?v=ugnn_N4aSnM L'Homme Moyen - In This Light - music,newage
+https://youtube.com/watch?v=LZYdSiYDxPo Sharman Rock - Hanabi (Inst.) - music,newage
+https://youtube.com/watch?v=E46Pq1NChmM David Holmes - Gone (The Kruder & Dorfmeister Session) - music,newage
+https://youtube.com/watch?v=57jDG_LlBZI Emancipator - Ghost Pong - music,newage
+https://open.spotify.com/track/2aP1HD5SoyEzv4bTmKNugE Vincent Leibovitz - Free Movement - music,newage
+https://youtube.com/watch?v=OlSXSrdPBMY rocomoco - Floating - music,newage
+https://www.youtube.com/watch?v=6fDMQ195n4E Neskre - Float Away - music,newage
+https://youtube.com/watch?v=7lKPfyn0T5o Silent Poets - Distant Memory - music,newage
+https://youtube.com/watch?v=AMrBB1BK6Pg Les Fragments De La Nuit - Devenons Demain II - music,newage
+https://youtube.com/watch?v=7dbVtKTxuHs Lotte Pen - Chronon - music,newage
+https://youtube.com/watch?v=w9xAgWt0Nyw Sophie Hutchings - Blind Dance - music,newage
+https://youtube.com/watch?v=zOIR-i66Iy8 Marco Messina - Bassifondi - music,newage
+https://youtube.com/watch?v=cSqdLyyehIM Guy Skornik - Another Approach - music,newage
+https://youtube.com/watch?v=e6Po2lDHD1I Andrea Vanzo - Amélie - Comptine d’un autre été, l’après-midi (reimagined) - music,newage
+https://youtube.com/watch?v=WndOOv-Mzz4 re:plus - A Fall and Rebirth - music,newage
