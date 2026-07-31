@@ -1,8 +1,3 @@
-https://github.com/mayocream/koharu - text
-https://tympanus.net/codrops/2025/06/18/coding-a-3d-audio-visualizer-with-three-js-gsap-web-audio-api - js,wallpaper
-
-https://github.com/scillidan/pegasus-theme-999 - game
-https://github.com/Abdess/retrobios - game
 https://github.com/a327ex/BYTEPATH - game,love
 https://github.com/sharpdev-me/SNKMD - game,love
 https://github.com/a327ex/SNKRX - game,love
@@ -24,12 +19,14 @@ https://ember-paw-games.itch.io/gaunt-valkyr - game
 https://korogames.itch.io/htl - game
 https://unnamecollective.itch.io/retriggered - game
 https://giantlight.itch.io/the-only-tower - game
+https://github.com/scillidan/pegasus-theme-999 - game
+https://github.com/Abdess/retrobios - game
 
-https://github.com/GaParmar/img2img-turbo
-https://github.com/earthtojake/text-to-cad
 https://github.com/AvaLovelace1/BrickGPT - model
 https://github.com/partcad/partcad - model
 https://github.com/jo/hyperwood - model
+https://github.com/earthtojake/text-to-cad
+https://github.com/GaParmar/img2img-turbo
 
 https://github.com/proudust/gh-describe - git,tag
 https://github.com/marketplace/actions/cve-lite-cli - act
