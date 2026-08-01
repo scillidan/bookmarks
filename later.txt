@@ -1,13 +1,13 @@
-https://github.com/nvim-mini/mini.bracketed - neovim,mini
-https://github.com/nvim-mini/mini.indentscope - neovim,mini
-https://github.com/mesirendon/nvim-ghrelease - neovim
+https://github.com/embedpdf/embed-pdf-viewer - web
+https://github.com/sambecker/exif-photo-blog - web
+https://github.com/goodreasonai/abbey - web,llm
 
+https://pyrocreep.itch.io/ploink - game,godot
+https://softwool.itch.io/torecower - game,godot
 https://github.com/a327ex/BYTEPATH - game,love
 https://github.com/sharpdev-me/SNKMD - game,love
 https://github.com/a327ex/SNKRX - game,love
 https://github.com/Luminware/SNKRX - game,love
-https://pyrocreep.itch.io/ploink - game,godot
-https://softwool.itch.io/torecower - game,godot
 https://feofentov.itch.io/ace-of-space - game,love
 https://adszads.itch.io/detached - game,love
 https://pandaqi.itch.io/drunken-fireworks - game,love
@@ -35,12 +35,7 @@ https://github.com/GaParmar/img2img-turbo
 https://github.com/proudust/gh-describe - git,tag
 https://github.com/marketplace/actions/cve-lite-cli - act
 https://github.com/apps/ecc-tools - act
-https://github.com/embedpdf/embed-pdf-viewer - web
-https://github.com/sambecker/exif-photo-blog - web
-https://github.com/goodreasonai/abbey - web,llm
 https://raphgl.github.io/Tuckr - dotfile
-https://github.com/Freed-Wu/manpager - bash
-https://github.com/JB63134/bash_h - bash
 https://github.com/HalFrgrd/flyline - bash
 https://github.com/BlackMATov/evolved.lua - love2d,ecs
 https://github.com/Oval-Tutu/shove - love2d,screen
