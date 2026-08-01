@@ -1,30 +1,34 @@
-https://github.com/embedpdf/embed-pdf-viewer - web
-https://github.com/sambecker/exif-photo-blog - web
-https://github.com/goodreasonai/abbey - web,llm
+https://github.com/scillidan/pegasus-theme-999 - game
+https://github.com/Abdess/retrobios - game
 
-https://pyrocreep.itch.io/ploink - game,godot
-https://softwool.itch.io/torecower - game,godot
-https://github.com/a327ex/BYTEPATH - game,love
-https://github.com/sharpdev-me/SNKMD - game,love
-https://github.com/a327ex/SNKRX - game,love
-https://github.com/Luminware/SNKRX - game,love
-https://feofentov.itch.io/ace-of-space - game,love
-https://adszads.itch.io/detached - game,love
-https://pandaqi.itch.io/drunken-fireworks - game,love
-https://hungrytrolls.itch.io/imperator-velis - game,love
-https://notexplosive.itch.io/in-the-rain - game,love
-https://chao.itch.io/marshal - game,love
-https://michaeldejong.itch.io/spaceships - game,love
-https://ellraiser.itch.io/synthesis - game,love
 https://soulpotion-games.itch.io/asgards-fall - game
-https://bilgetbd.itch.io/balls-dice-stickers - game
 https://matteo-dalessandro.itch.io/farmshoot - game
 https://ember-paw-games.itch.io/gaunt-valkyr - game
 https://korogames.itch.io/htl - game
-https://unnamecollective.itch.io/retriggered - game
 https://giantlight.itch.io/the-only-tower - game
-https://github.com/scillidan/pegasus-theme-999 - game
-https://github.com/Abdess/retrobios - game
+https://bilgetbd.itch.io/balls-dice-stickers - game
+
+https://github.com/a327ex/BYTEPATH - game,love2d
+https://github.com/sharpdev-me/SNKMD - game,love2d
+https://github.com/a327ex/SNKRX - game,love2d
+https://github.com/Luminware/SNKRX - game,love2d
+https://feofentov.itch.io/ace-of-space - game,love2d
+https://adszads.itch.io/detached - game,love2d
+https://pandaqi.itch.io/drunken-fireworks - game,love2d
+https://hungrytrolls.itch.io/imperator-velis - game,love2d
+https://notexplosive.itch.io/in-the-rain - game,love2d
+https://chao.itch.io/marshal - game,love2d
+https://michaeldejong.itch.io/spaceships - game,love2d
+https://ellraiser.itch.io/synthesis - game,love2d
+https://github.com/BlackMATov/evolved.lua - love2d,ecs
+https://github.com/Oval-Tutu/shove - love2d,screen
+https://github.com/Oval-Tutu/bootstrap-love2d-project - love2d,packager
+https://github.com/mikefreno/FlexLove - love2d
+https://github.com/jasonjmcghee/livelove - love2d
+https://github.com/PrismRL/prism - love2d
+
+https://pyrocreep.itch.io/ploink - game,godot
+https://softwool.itch.io/torecower - game,godot
 
 https://github.com/AvaLovelace1/BrickGPT - model
 https://github.com/partcad/partcad - model
@@ -37,12 +41,6 @@ https://github.com/marketplace/actions/cve-lite-cli - act
 https://github.com/apps/ecc-tools - act
 https://raphgl.github.io/Tuckr - dotfile
 https://github.com/HalFrgrd/flyline - bash
-https://github.com/BlackMATov/evolved.lua - love2d,ecs
-https://github.com/Oval-Tutu/shove - love2d,screen
-https://github.com/Oval-Tutu/bootstrap-love2d-project - love2d,packager
-https://github.com/mikefreno/FlexLove - love2d
-https://github.com/jasonjmcghee/livelove - love2d
-https://github.com/PrismRL/prism - love2d
 https://manual.audacityteam.org/man/noise_reduction.html Noise Reduction - guide,audacity
 https://manual.audacityteam.org/man/alternative_noise_reduction_techniques.html Noise Gate - guide,audacity
 https://vladar.bearblog.dev/hexagonal-maps-with-inkscape-and-krita Hexagonal maps with Inkscape and Krita - guide,krita

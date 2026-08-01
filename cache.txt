@@ -1,3 +1,6 @@
+https://github.com/sambecker/exif-photo-blog - web
+https://github.com/embedpdf/embed-pdf-viewer - web,pdf
+https://github.com/goodreasonai/abbey - web,llm
 https://github.com/mesirendon/nvim-ghrelease - neovim
 https://github.com/Prgebish/sigil.nvim - neovim
 https://github.com/shaakz/rsync.yazi - yazi
@@ -2518,7 +2521,6 @@ https://github.com/xaoxuu/hexo-theme-stellar - web,hexo
 https://github.com/japotrad/bilingual-ebooks - web,pdf
 https://github.com/lise-henry/crowbook - web,pdf
 https://github.com/farvardin/textallion - web,pdf
-https://github.com/alekswebnet/pdfjs-viewer-element - web,pdf
 https://github.com/jmbaur/gosee - web,preview
 https://github.com/ms-jpq/markdown-live-preview - web,preview
 https://github.com/marketplace/actions/lychee-broken-link-checker - web,proof
