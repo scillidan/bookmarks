@@ -3357,7 +3357,6 @@ https://github.com/KIMGEONUNG/memo.nvim - nvim,note
 https://github.com/DevDec/transmit.nvim - nvim,sftp
 https://github.com/Omochice/dps-translate-vim - nvim,translate
 https://github.com/JuanZoran/Trans.nvim - nvim,translate
-https://github.com/cristianoliveira/funzzy.nvim - nvim,watch
 https://github.com/Eandrju/cellular-automaton.nvim - nvim
 https://github.com/ziontee113/color-picker.nvim - nvim
 https://github.com/MisanthropicBit/decipher.nvim - nvim
