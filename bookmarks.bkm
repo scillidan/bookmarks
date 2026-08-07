@@ -30,7 +30,6 @@ https://wiki.archlinux.org/title/Firewalld - wiki
 https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types - guide
 https://imagemagick.org/script/command-line-processing.php - command
 https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Video_codecs - document
-https://www.shotcut.org/stockmedia/Shotcut%20User%20Guide.pdf - document,pdf
 https://sigil-ebook.com/sigil-user-guide/index2.html?epub=epub_content%2Fguide - document
 https://alacritty.org/config-alacritty.html - document
 https://www.lua.org/manual/5.4/manual.html#3.1 - document
@@ -39,7 +38,6 @@ https://manual.audacityteam.org - document
 https://darktable-org.github.io/dtdocs/en - document
 https://dbeaver.com/docs/dbeaver - document
 https://dandavison.github.io/delta - document
-https://espanso.org/docs/get-started - document
 https://everything.curl.dev - document
 https://ffmpeg.org/ffmpeg.html - document
 https://wiki.freecad.org/Manual:Introduction - document
@@ -51,16 +49,13 @@ https://audiomass.co - webapp,audio
 https://docs.kdenlive.org/en/index.html - document
 https://docs.kicad.org/7.0/en/getting_started_in_kicad/getting_started_in_kicad.html - document
 https://docs.krita.org/en - document
-https://opencode.ai/docs - document
 https://docs.qgis.org/3.44/en/docs/index.html - document
 https://docs.qgis.org/3.44/pdf - document,pdf
 https://rclone.org/docs - document
 https://github.com/google/re2/wiki/Syntax - document,regex
 https://download.samba.org/pub/rsync/rsync.1 - document
-https://sioyek-documentation.readthedocs.io/en/latest - document
 https://docs.syncthing.net/users/syncthing.html - document
 https://mpv.io/manual/master - document
-https://yazi-rs.github.io/docs/installation - document
 https://www.conventionalcommits.org Conventional Commits - document,git
 https://keepachangelog.com Keep a Changelog - document,git
 https://semver.org Semantic Versioning - document,git
@@ -68,8 +63,6 @@ https://www.autohotkey.com/docs/v2 - document,autohotkey
 https://chrisant996.github.io/clink/clink.html - document
 https://github.com/ScoopInstaller/Scoop/wiki - document
 https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md - document,scoop,contribute
-https://github.com/aelassas/servy/wiki - document,servy
-https://docs.mp3tag.de/mapping - document,mp3tag
 https://steamcommunity.com/sharedfiles/filedetails/?id=1856527757 How to reduce video file size using Handbrake - guide,handbrake
 https://www.reddit.com/r/handbrake/comments/qas35a/newbie_on_encoding_from_bluray_source_files Newbie On Encoding From Blu-Ray Source Files - guide,handbrake
 https://leanrada.com/notes/pure-css-halftone Creating a halftone effect with CSS - guide,css
