@@ -1,3 +1,4 @@
+https://github.com/STDquantum/yingshentu - asset
 https://github.com/yetidevworks/drydock - git
 https://github.com/Nutlope/aicommits - git
 https://github.com/tio/tio - hardware
