@@ -1,3 +1,4 @@
+https://github.com/yogthos/splat-painter - image
 https://github.com/ScottFelder/lazymqtt - hardware
 https://github.com/STDquantum/yingshentu - asset
 https://github.com/yetidevworks/drydock - git
