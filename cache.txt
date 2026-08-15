@@ -1,3 +1,7 @@
+https://github.com/matheuswhite/scope-rs - hardware
+https://github.com/kbrdn1/gwm-cli - git
+https://wiki.opentrafficmap.org - map
+https://github.com/dorukkumkumoglu/optocamzero - hardware
 https://github.com/yogthos/splat-painter - image
 https://github.com/ScottFelder/lazymqtt - hardware
 https://github.com/STDquantum/yingshentu - asset
