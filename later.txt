@@ -7,18 +7,15 @@ https://korogames.itch.io/htl - game
 https://giantlight.itch.io/the-only-tower - game
 https://bilgetbd.itch.io/balls-dice-stickers - game
 
-https://github.com/a327ex/BYTEPATH - game,love2d
 https://github.com/sharpdev-me/SNKMD - game,love2d
-https://github.com/a327ex/SNKRX - game,love2d
-https://github.com/Luminware/SNKRX - game,love2d
 https://feofentov.itch.io/ace-of-space - game,love2d
 https://adszads.itch.io/detached - game,love2d
 https://pandaqi.itch.io/drunken-fireworks - game,love2d
-https://hungrytrolls.itch.io/imperator-velis - game,love2d
 https://notexplosive.itch.io/in-the-rain - game,love2d
 https://chao.itch.io/marshal - game,love2d
 https://michaeldejong.itch.io/spaceships - game,love2d
 https://ellraiser.itch.io/synthesis - game,love2d
+
 https://github.com/BlackMATov/evolved.lua - love2d,ecs
 https://github.com/Oval-Tutu/shove - love2d,screen
 https://github.com/Oval-Tutu/bootstrap-love2d-project - love2d,packager

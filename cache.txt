@@ -1,3 +1,5 @@
+https://hungrytrolls.itch.io/imperator-velis - game
+https://github.com/GBALATRO/balatro-gba - game
 https://github.com/matheuswhite/scope-rs - hardware
 https://github.com/kbrdn1/gwm-cli - git
 https://wiki.opentrafficmap.org - map
