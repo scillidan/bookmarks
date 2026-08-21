@@ -1,3 +1,4 @@
+https://typst.app/universe/package/automosaic - typst,layout
 https://hungrytrolls.itch.io/imperator-velis - game
 https://github.com/GBALATRO/balatro-gba - game
 https://github.com/matheuswhite/scope-rs - hardware
