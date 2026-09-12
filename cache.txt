@@ -1,3 +1,4 @@
+https://typst.app/universe/package/mise-en-place - typst,visualization
 https://typst.app/universe/package/sanity - typst,utility
 https://typst.app/universe/package/vanilla-aruco - typst,visualization
 https://typst.app/universe/package/eskd-drafting - typst,layout
