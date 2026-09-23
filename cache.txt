@@ -1,3 +1,6 @@
+https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/ - js
+https://github.com/jo/hyperwood - 3d
+https://github.com/AvaLovelace1/BrickGPT - ai,3d
 https://github.com/max-sixty/worktrunk - llm
 https://typst.app/universe/package/mise-en-place - typst,visualization
 https://typst.app/universe/package/sanity - typst,utility

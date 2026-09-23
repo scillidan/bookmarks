@@ -1,13 +1,9 @@
-https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/ - js
 https://github.com/lightningpixel/modly - 3d
-
-https://github.com/AvaLovelace1/BrickGPT - model
-https://github.com/partcad/partcad - model
-https://github.com/jo/hyperwood - model
+https://github.com/partcad/partcad - 3d
 https://github.com/earthtojake/text-to-cad
 https://github.com/GaParmar/img2img-turbo
 
-https://gitlab.gnome.org/andy128k/hearts - game
+https://gitlab.gnome.org/andy128k/hearts - game,linux
 https://github.com/Abdess/retrobios - game
 
 https://soulpotion-games.itch.io/asgards-fall - game
@@ -50,3 +46,4 @@ https://github.com/gibbok/typescript-book - lession,typst
 https://github.com/let-def/texpresso - latex
 https://civitai.com/articles/24629/complete-guide-next-scene-generation-from-images-in-comfyui - comfyui
 https://github.com/fonttools/fonttools
+https://typst.app/universe/package/exiftract - typst
