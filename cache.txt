@@ -1,6 +1,7 @@
+https://github.com/microsoft/trellis.2 - ai,3d
 https://github.com/LingDong-/duct-tape-font - font
 https://github.com/rezigned/upmd - develop
-https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/ - js
+https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js - js
 https://github.com/jo/hyperwood - 3d
 https://github.com/AvaLovelace1/BrickGPT - ai,3d
 https://github.com/max-sixty/worktrunk - llm
