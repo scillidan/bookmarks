@@ -1,3 +1,6 @@
+https://github.com/gateway-of-last-resort/keyward - bin
+https://github.com/ajaxray/markpdf - bin
+https://github.com/ayanchavand/vib - bin
 https://github.com/simifalaye/minibuffer.nvim - neovim
 https://github.com/microsoft/trellis.2 - ai,3d
 https://github.com/LingDong-/bad-cut-font - font
