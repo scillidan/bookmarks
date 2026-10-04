@@ -5,30 +5,12 @@ https://github.com/earthtojake/text-to-cad
 https://github.com/GaParmar/img2img-turbo
 
 https://gitlab.gnome.org/andy128k/hearts - game,linux
-https://github.com/Abdess/retrobios - game
-
 https://soulpotion-games.itch.io/asgards-fall - game
 https://matteo-dalessandro.itch.io/farmshoot - game
 https://ember-paw-games.itch.io/gaunt-valkyr - game
 https://korogames.itch.io/htl - game
 https://giantlight.itch.io/the-only-tower - game
 https://bilgetbd.itch.io/balls-dice-stickers - game
-
-https://github.com/sharpdev-me/SNKMD - game,love2d
-https://feofentov.itch.io/ace-of-space - game,love2d
-https://adszads.itch.io/detached - game,love2d
-https://pandaqi.itch.io/drunken-fireworks - game,love2d
-https://notexplosive.itch.io/in-the-rain - game,love2d
-https://chao.itch.io/marshal - game,love2d
-https://michaeldejong.itch.io/spaceships - game,love2d
-https://ellraiser.itch.io/synthesis - game,love2d
-
-https://github.com/BlackMATov/evolved.lua - love2d,ecs
-https://github.com/Oval-Tutu/shove - love2d,screen
-https://github.com/Oval-Tutu/bootstrap-love2d-project - love2d,packager
-https://github.com/mikefreno/FlexLove - love2d
-https://github.com/jasonjmcghee/livelove - love2d
-https://github.com/PrismRL/prism - love2d
 
 https://pyrocreep.itch.io/ploink - game,godot
 https://softwool.itch.io/torecower - game,godot
