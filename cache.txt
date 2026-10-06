@@ -1,3 +1,6 @@
+https://typst.app/universe/package/riffle - typst,layout
+https://github.com/wurli/servery.nvim - neovim,session
+https://github.com/nghiant03/jove.nvim - neovim,jupyter
 https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit - comfyui
 https://www.vicinae.com/extensions/tiagem/coffee - vicinae,extension
 https://www.vicinae.com/extensions/asd2003ru/number-converter - vicinae,extension

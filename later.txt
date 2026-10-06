@@ -30,6 +30,8 @@ https://github.com/let-def/texpresso - latex
 https://civitai.com/articles/24629/complete-guide-next-scene-generation-from-images-in-comfyui - comfyui
 https://github.com/fonttools/fonttools
 https://typst.app/universe/package/exiftract - typst
+https://www.vicinae.com/extensions - vicinae
+https://github.com/Effect-TS/effect - typescript
 
 https://github.com/LingDong-/rhyme-grass-font - font
 https://github.com/LingDong-/bad-cut-font - font
