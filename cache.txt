@@ -1,3 +1,4 @@
+https://github.com/tr1v3r/epub-preview.yazi - yazi
 https://typst.app/universe/package/riffle - typst,layout
 https://github.com/wurli/servery.nvim - neovim,session
 https://github.com/nghiant03/jove.nvim - neovim,jupyter
@@ -1958,7 +1959,6 @@ https://www.maoken.com/freefonts/24749.html 汇迹正楷 - font,serif
 https://www.maoken.com/freefonts/24495.html 汇文仿宋 - font,serif
 https://github.com/LingDong-/tk-fangsong-font 剔骨仿宋 - font,serif
 https://www.maoken.com/freefonts/19417.html 京華老宋体 - font,serif
-https://github.com/rektdeckard/departure-mono Departure Mono - font,pixel
 https://deviantart.com/vicing/art/Grey-Tango-Cursor-little-115920099 - asset,cursor
 https://deviantart.com/vicing/art/Grey-Tango-Cursor-115807611 - asset,cursor
 https://gnome-look.org/p/2045954 - asset,cursor
