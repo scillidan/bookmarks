@@ -1,3 +1,5 @@
+https://github.com/szabadkai/c64-keyboard-font - font
+https://github.com/rekurt/git-barber - git,branch
 https://github.com/tr1v3r/epub-preview.yazi - yazi
 https://typst.app/universe/package/riffle - typst,layout
 https://github.com/wurli/servery.nvim - neovim,session
