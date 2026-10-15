@@ -1,3 +1,10 @@
+https://github.com/upyesp/epher.nvim - neovim
+https://github.com/daaanny90/interlinked.nvim - neovim,colorscheme
+https://github.com/Geronfir/split-tabs-vertical.yazi - yazi
+https://github.com/ThomasVanRiel/repo-status.yazi - yazi
+https://github.com/musithang/sdrtop - hardware
+https://github.com/chungquantin/edma - hardware
+https://typst.app/universe/package/numera - typst,utility
 https://github.com/OpenLF2/OpenLF2 - game
 https://github.com/AbrarAbe/drawio.yazi - yazi
 https://github.com/szabadkai/c64-keyboard-font - font
