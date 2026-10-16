@@ -2330,7 +2330,6 @@ https://github.com/mixn/carbon-now-cli - bin,code
 https://github.com/Aloxaf/silicon - bin,code,carbon
 https://github.com/Insolita/coloro - bin,color
 https://github.com/pmihaly/img2theme - bin,color
-https://github.com/sharkdp/pastel - bin,color
 https://github.com/open-cli-tools/concurrently - bin,command
 https://github.com/Hyde46/hoard - bin,command
 https://github.com/mateodelnorte/loop - bin,command
@@ -2447,7 +2446,6 @@ https://github.com/sivel/speedtest-cli - bin,http,test
 https://github.com/s0md3v/uro - bin,http,test
 https://github.com/channel-42/hue-tui - bin,hue
 https://github.com/FineFindus/artem) - bin,image
-https://github.com/TheZoraiz/ascii-image-converter - bin,image
 https://github.com/leblancfg/autocrop - bin,image
 https://github.com/autotrace/autotrace - bin,image
 https://github.com/lineCode/icon-pie - bin,image
