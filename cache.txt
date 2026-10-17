@@ -1,4 +1,5 @@
-https://github.com/jasonjgardner/blockbench-mcp-plugin - ai,mcp
+https://github.com/thewh1teagle/vibe - model,tts
+https://github.com/jasonjgardner/blockbench-mcp-plugin - llm,mcp
 https://github.com/upyesp/epher.nvim - neovim
 https://github.com/daaanny90/interlinked.nvim - neovim,colorscheme
 https://github.com/Geronfir/split-tabs-vertical.yazi - yazi
@@ -56,7 +57,7 @@ https://github.com/simifalaye/minibuffer.nvim - neovim
 https://github.com/rezigned/upmd - develop
 https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js - js
 https://github.com/jo/hyperwood - 3d
-https://github.com/AvaLovelace1/BrickGPT - ai,3d
+https://github.com/AvaLovelace1/BrickGPT - llm,3d
 https://github.com/max-sixty/worktrunk - llm
 https://typst.app/universe/package/mise-en-place - typst,visualization
 https://typst.app/universe/package/sanity - typst,utility
@@ -1453,7 +1454,7 @@ https://thkaspar.itch.io/center-image - aseprite
 https://simonstalder.itch.io/layer-rename-for-aseprite - aseprite
 https://mooosik.itch.io/shading-extension - aseprite
 https://jahdah.itch.io/write-tool - aseprite
-https://github.com/spyoungtech/ahk - autohotkey,autohotkey
+https://github.com/spyoungtech/ahk - autohotkey
 https://github.com/ouweiya/AHK - autohotkey,ime
 https://github.com/hamurlik/AutoAccent - autohotkey,audio
 https://github.com/TomiBelan/mute-on-focus-lost - autohotkey,audio
