@@ -1,3 +1,5 @@
+https://github.com/diivi/aseprite-mcp - ai,mcp
+https://github.com/jasonjgardner/blockbench-mcp-plugin - ai,mcp
 https://github.com/upyesp/epher.nvim - neovim
 https://github.com/daaanny90/interlinked.nvim - neovim,colorscheme
 https://github.com/Geronfir/split-tabs-vertical.yazi - yazi
