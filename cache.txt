@@ -202,7 +202,6 @@ https://www.texstudio.org - windows,editor
 https://github.com/anb0s/EasyShell - windows,explorer
 https://github.com/megakraken/FFmpegThumbnails - windows,explorer
 https://github.com/files-community/Files - windows,explorer
-https://majorgeeks.com/files/details/icaros.html - windows,explorer
 https://listary.com - windows,explorer
 https://github.com/QL-Win/QuickLook - windows,explorer
 https://github.com/EtheaDev/SVGShellExtensions - windows,explorer
