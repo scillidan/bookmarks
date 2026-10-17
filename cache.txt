@@ -1,4 +1,3 @@
-https://github.com/diivi/aseprite-mcp - ai,mcp
 https://github.com/jasonjgardner/blockbench-mcp-plugin - ai,mcp
 https://github.com/upyesp/epher.nvim - neovim
 https://github.com/daaanny90/interlinked.nvim - neovim,colorscheme
@@ -54,7 +53,6 @@ https://github.com/gateway-of-last-resort/keyward - bin
 https://github.com/ajaxray/markpdf - bin
 https://github.com/ayanchavand/vib - bin
 https://github.com/simifalaye/minibuffer.nvim - neovim
-https://github.com/microsoft/trellis.2 - ai,3d
 https://github.com/rezigned/upmd - develop
 https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js - js
 https://github.com/jo/hyperwood - 3d
