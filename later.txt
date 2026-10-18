@@ -1,3 +1,5 @@
+https://github.com/obsidianmd/pele - ts
+
 https://github.com/Stability-AI/stable-point-aware-3d - 3d
 https://github.com/lightningpixel/modly - 3d
 https://github.com/partcad/partcad - 3d
