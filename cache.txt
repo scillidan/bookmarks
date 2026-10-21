@@ -1,3 +1,4 @@
+https://github.com/llamastash/llamastash - llm
 https://github.com/looptroop-ai/LoopTroop - llm
 https://github.com/avestura/zagros - app
 https://github.com/DervexDev/f3d.yazi - yazi
@@ -4053,7 +4054,6 @@ https://github.com/openai-translator/openai-translator - app,translate
 https://github.com/hacksider/Deep-Live-Cam - app,video
 https://github.com/cdgriffith/FastFlix - app,video
 https://github.com/tsl0922/ImPlay - app,video
-https://github.com/mtkennerly/madamiru - app,video
 https://github.com/mpc-qt/mpc-qt - app,video
 https://github.com/ripose-jp/memento - app,video
 https://github.com/hockyy/miteiru - app,video
