@@ -167,7 +167,6 @@ https://www.ocenaudio.com - windows,audio
 https://github.com/boy1dr/SpleeterGui - windows,audio
 https://xmedia-recode.de - windows,audio
 https://snipdo-app.com - windows,clipboard
-https://github.com/irungentoo/Gopher360 - windows,controller
 https://thatsmytrunks.itch.io/xinput-controller-tester - windows,controller
 https://github.com/brianluft/sqlnotebook - windows,database
 https://deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422 - windows,desktop
@@ -226,7 +225,6 @@ https://pixelbyte.itch.io/paint-net-sprite-plugin - windows,paint-net
 https://github.com/paintdotnet/release - windows,paint-net
 https://github.com/darklinkpower/Nova-X - windows,playnite
 https://github.com/gittromney/Playnite-NowPlaying - windows,playnite
-https://github.com/Tech-FZ/EmuGUI - windows,qemu
 https://cockos.com/licecap - windows,record
 https://github.com/NickeManarin/ScreenToGif - windows,record
 https://github.com/martinrotter/rssguard - windows,rss
@@ -2263,8 +2261,6 @@ https://github.com/TheYkk/git-switcher - git
 https://github.com/git-bug/git-bug - git
 https://github.com/MichaelMure/git-bug - git
 https://github.com/jevakallio/git-notify - git
-https://github.com/paulirish/git-open - git
-https://github.com/paulirish/git-recent - git
 https://github.com/amitsaha/gitbackup - git
 https://github.com/amrdeveloper/gql - git
 https://github.com/extrawurst/gitui - git
