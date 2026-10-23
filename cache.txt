@@ -274,7 +274,6 @@ https://eithermouse.com - windows
 https://github.com/SpaceFoon/Ez-Game-Audio-Conversion - windows
 https://sordum.org/10124/folder-painter-v1-3 - windows
 https://github.com/h3lstudios/hamster - windows
-https://hwinfo.com - windows
 https://github.com/minisoftwarelab/imap-Image-to-PDF-Converter-Application-For-Windows - windows
 https://annystudio.com/software/colorpicker - windows
 https://github.com/canneverbe/Ketarin - windows
