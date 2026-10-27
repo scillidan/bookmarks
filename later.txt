@@ -40,3 +40,6 @@ https://github.com/LingDong-/rhyme-grass-font - font
 https://github.com/LingDong-/bad-cut-font - font
 https://github.com/LingDong-/computer-grass - font
 https://github.com/LingDong-/duct-tape-font - font
+
+https://github.com/FelipeKerr/rsync-paste.yazi - yazi
+https://github.com/superb-striker/retarget-link.yazi - yazi
