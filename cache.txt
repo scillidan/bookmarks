@@ -1,3 +1,4 @@
+https://github.com/vitosans/rail - app
 https://typst.app/universe/package/exam-zh-next - typst,office
 https://github.com/llamastash/llamastash - llm
 https://github.com/looptroop-ai/LoopTroop - llm
