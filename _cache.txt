@@ -177,7 +177,6 @@ https://github.com/Hofknecht/SystemTrayMenu - windows,desktop
 https://github.com/tjackenpacken/taskbar-groups - windows,desktop
 https://github.com/HooferDevelops/TinyTaskbar - windows,desktop
 https://github.com/TranslucentTB/TranslucentTB - windows,desktop
-https://github.com/FelixdelasPozas/TrayWeather - windows,desktop
 https://github.com/fcFn/traymond - windows,desktop
 https://github.com/t1m0thyj/WinDynamicDesktop - windows,desktop
 https://github.com/rampaa/JL - windows,dictionary
@@ -294,6 +293,7 @@ https://openark.blackint3.com - windows
 https://github.com/JosefNemec/Playnite - windows
 https://processhacker.sourceforge.io - windows
 https://github.com/ModuleArt/quick-color-picker - windows
+https://github.com/ivankovic/omnidiff - diff
 https://den4b.com/products/renamer - windows
 https://github.com/andrijac/ruler - windows
 https://github.com/sergiye/ruler - windows
@@ -337,7 +337,6 @@ https://github.com/rNeomy/reader-view - browser,chrome,firefox
 https://github.com/einaregilsson/Redirector - browser,chrome,firefox
 https://github.com/DIYgod/RSSHub-Radar - browser,chrome,firefox
 https://github.com/simov/screenshot-capture - browser,chrome,firefox
-https://github.com/gildas-lormeau/SingleFile - browser,chrome,firefox
 https://github.com/FallenMax/smart-toc - browser,chrome,firefox
 https://steamdb.info/extension - browser,chrome,firefox
 https://add0n.com/stylus.html - browser,chrome,firefox
