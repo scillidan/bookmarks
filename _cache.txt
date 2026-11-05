@@ -1,3 +1,5 @@
+https://github.com/Jarvvski/jjfx - git
+https://github.com/peymanAzad/ario - download
 https://github.com/sachaos/viddy - docker
 https://github.com/vitosans/rail - app
 https://typst.app/universe/package/exam-zh-next - typst,office
