@@ -23,6 +23,7 @@ https://github.com/wurli/servery.nvim - neovim,session
 https://github.com/nghiant03/jove.nvim - neovim,jupyter
 https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit - comfyui
 https://github.com/Abdess/retrobios - game
+https://github.com/love2d-community/awesome-love2d - love2d,feed
 https://github.com/sharpdev-me/SNKMD - game,love2d
 https://feofentov.itch.io/ace-of-space - game,love2d
 https://adszads.itch.io/detached - game,love2d
