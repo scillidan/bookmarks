@@ -1,3 +1,4 @@
+https://github.com/anirbanchakraborty-dev/swara - neovim
 https://origami-database.com - paper
 https://www.foldnfly.com - paper
 https://github.com/johmsalas/text-case.nvim - neovim
