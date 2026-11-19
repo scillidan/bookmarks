@@ -1,3 +1,4 @@
+https://github.com/Wansmer/symbol-usage.nvim - neovim
 https://github.com/anomalyco/opentui - opencode
 https://github.com/anomalyco/opentunnel - opencode
 https://github.com/anirbanchakraborty-dev/swara - neovim
