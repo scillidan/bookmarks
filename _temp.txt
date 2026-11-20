@@ -1,3 +1,5 @@
+https://github.com/cwelsys/zjump.yazi - yazi
+https://github.com/SawGoD/git-screen.yazi - yazi
 https://github.com/Wansmer/symbol-usage.nvim - neovim
 https://github.com/anomalyco/opentui - opencode
 https://github.com/anomalyco/opentunnel - opencode
