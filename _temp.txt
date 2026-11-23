@@ -1,3 +1,4 @@
+https://github.com/neboto/neboto-tui - vps
 https://github.com/kajisho5/ffmpeg-skill - skills
 https://github.com/cwelsys/zjump.yazi - yazi
 https://github.com/SawGoD/git-screen.yazi - yazi
